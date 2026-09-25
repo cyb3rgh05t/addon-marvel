@@ -1,0 +1,24 @@
+services:
+  marvel-addon:
+    image: ${IMAGE_NAME}:${IMAGE_TAG:-latest}
+    container_name: marvel-addon
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      PORT: 7777
+      PUBLIC_URL: ${PUBLIC_URL}
+    networks:
+      - traefik
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=traefik
+      - traefik.http.routers.marvel-addon.rule=Host(`${DOMAIN}`)
+      - traefik.http.routers.marvel-addon.entrypoints=websecure
+      - traefik.http.routers.marvel-addon.tls=true
+      - traefik.http.routers.marvel-addon.tls.certresolver=${TRAEFIK_CERTRESOLVER}
+      - traefik.http.services.marvel-addon.loadbalancer.server.port=7777
+
+networks:
+  traefik:
+    external: true
