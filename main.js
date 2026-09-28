@@ -300,8 +300,8 @@ function buildManifest({ id, description, catalogs, assetBaseUrl }) {
 app.get("/manifest.json", (req, res) => {
   const rpdbKey = req.query.rpdb || null;
   const id = rpdbKey
-    ? "com.joaogonp.marveladdon.rpdb"
-    : "com.joaogonp.marveladdon";
+    ? "com.cyb3rgh05t.marveladdon.rpdb"
+    : "com.cyb3rgh05t.marveladdon";
   res.json(
     buildManifest({
       id,
@@ -317,7 +317,7 @@ app.get("/rpdb/:rpdbKey/manifest.json", (req, res) => {
   const { rpdbKey } = req.params;
   res.json(
     buildManifest({
-      id: `com.joaogonp.marveladdon.rpdb.${rpdbKey.slice(0, 8)}`,
+      id: `com.cyb3rgh05t.marveladdon.rpdb.${rpdbKey.slice(0, 8)}`,
       description:
         "Watch the entire Marvel catalog with IMDb ratings on posters!",
       catalogs: getAllCatalogs(),
@@ -346,8 +346,8 @@ app.get("/catalog/:catalogsParam/manifest.json", (req, res) => {
 
   const customId = (
     rpdbKey
-      ? `com.joaogonp.marveladdon.custom.${selectedCatalogIds.join(".")}.rpdb`
-      : `com.joaogonp.marveladdon.custom.${selectedCatalogIds.join(".")}`
+      ? `com.cyb3rgh05t.marveladdon.custom.${selectedCatalogIds.join(".")}.rpdb`
+      : `com.cyb3rgh05t.marveladdon.custom.${selectedCatalogIds.join(".")}`
   ).slice(0, 100);
 
   res.json(
