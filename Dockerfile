@@ -1,14 +1,17 @@
-FROM denoland/deno:alpine-2.1.9
+FROM node:22-alpine
 
 WORKDIR /app
 
-COPY . .
+COPY package.json package-lock.json ./
 
-RUN deno cache main.js
+RUN npm ci --omit=dev
 
+COPY --chown=node:node . .
+
+ENV NODE_ENV=production
 ENV PORT=7777
 EXPOSE 7777
 
-USER deno
+USER node
 
-CMD ["deno", "task", "start"]
+CMD ["npm", "start"]

@@ -1,11 +1,13 @@
-import express from "npm:express@4";
+import "dotenv/config";
+import express from "express";
 import path from "node:path";
 import fs from "node:fs";
-import cors from "npm:cors@2";
-import compression from "npm:compression@1";
-import axios from "npm:axios@1";
-import pLimit from "npm:p-limit@3";
-import { LRUCache } from "npm:lru-cache@10";
+import { fileURLToPath } from "node:url";
+import cors from "cors";
+import compression from "compression";
+import axios from "axios";
+import pLimit from "p-limit";
+import { LRUCache } from "lru-cache";
 
 import chronologicalData from "./Data/chronologicalData.js";
 import xmenData from "./Data/xmenData.js";
@@ -14,27 +16,26 @@ import seriesData from "./Data/seriesData.js";
 import animationsData from "./Data/animationsData.js";
 import releaseData from "./Data/releaseData.js";
 
-const __dirname = import.meta.dirname;
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// Metadata pré-construído pelo scripts/buildMetadata.js (corres localmente
-// com Node, não no Deno Deploy). Fica em disco, é pequeno, e é lido UMA VEZ
-// no arranque — os pedidos normais de catálogo não tocam no TMDb.
+// Metadata is prebuilt by scripts/buildMetadata.js, stored on disk, and read
+// once at startup. Normal catalog requests do not contact TMDb.
 const METADATA_CACHE_PATH = path.join(__dirname, "Data", "metadataCache.json");
 let metadataCache = {};
 try {
   metadataCache = JSON.parse(fs.readFileSync(METADATA_CACHE_PATH, "utf-8"));
   console.log(
-    `Metadata cache carregado: ${Object.keys(metadataCache).length} itens.`,
+    `Metadata cache loaded: ${Object.keys(metadataCache).length} items.`,
   );
 } catch (err) {
   console.warn(
-    "Sem metadataCache.json ainda (corre scripts/buildMetadata.js localmente). A usar fallback ao vivo.",
+    "metadataCache.json is unavailable. Using live metadata fallback.",
   );
 }
 
-const tmdbKey = Deno.env.get("TMDB_API_KEY") ?? "";
-const port = Number(Deno.env.get("PORT") ?? 7000);
-const publicUrl = Deno.env.get("PUBLIC_URL")?.replace(/\/+$/, "") ?? "";
+const tmdbKey = process.env.TMDB_API_KEY ?? "";
+const port = Number(process.env.PORT ?? 7000);
+const publicUrl = process.env.PUBLIC_URL?.replace(/\/+$/, "") ?? "";
 
 const app = express();
 app.use(compression());
@@ -44,7 +45,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use((req, res, next) => {
-  res.setHeader("Cache-Control", "public, max-age=1814400"); // 3 semanas
+  res.setHeader("Cache-Control", "public, max-age=1814400"); // 3 weeks
   next();
 });
 
@@ -57,12 +58,11 @@ app.get("/configure", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "configure.html"));
 });
 
-// Cache dos catálogos já montados (não confundir com metadataCache acima:
-// aqui é só o resultado final por catálogo, para não repetir o trabalho
-// de merge/filter a cada pedido idêntico).
+// Cache completed catalogs separately from metadataCache to avoid rebuilding
+// the same merged and filtered result for every matching request.
 const cachedCatalog = new LRUCache({
   max: 20,
-  ttl: 1000 * 60 * 60 * 24 * 30, // 30 dias
+  ttl: 1000 * 60 * 60 * 24 * 30, // 30 days
   maxSize: 8_000_000, // ~8 MB
   sizeCalculation: (value) => JSON.stringify(value).length,
 });
@@ -101,9 +101,8 @@ function isValidUrl(str) {
   }
 }
 
-// Fallback ao vivo — só corre para um item que ainda não esteja no cache
-// pré-construído (ex: acabou de ser adicionado a um Data/*.js e ainda
-// ninguém correu o buildMetadata.js). Não bloqueia o resto do catálogo.
+// The live fallback only runs for items missing from the prebuilt cache.
+// It does not block the rest of the catalog.
 async function fetchLiveMeta(item) {
   const type = item.type || "movie";
   const lookupId = item.imdbId || item.id;
@@ -160,13 +159,13 @@ async function fetchLiveMeta(item) {
       genres: tmdbData.genres?.map((g) => g.name) || ["Action", "Adventure"],
     };
   } catch (err) {
-    console.warn(`Fallback ao vivo falhou para ${item.title}: ${err.message}`);
+    console.warn(`Live fallback failed for ${item.title}: ${err.message}`);
     return { ...FALLBACK_META, id: lookupId, name: item.title };
   }
 }
 
-// Cache da validade de cada poster RPDB (por chave+imdbId), 24h. Evita
-// repetir o pedido HEAD a cada catálogo pedido pelo mesmo utilizador.
+// Cache RPDB poster validity by key and IMDb ID for 24 hours to avoid
+// repeating HEAD requests for the same catalog.
 const rpdbValidityCache = new LRUCache({
   max: 20000,
   ttl: 1000 * 60 * 60 * 24,
@@ -213,9 +212,8 @@ async function replaceRpdbPosters(rpdbKey, metas) {
   );
 }
 
-// Constrói os metas de um catálogo: quase sempre 100% a partir do cache
-// pré-construído (sem I/O de rede nenhum). Só faz fetch ao vivo para os
-// itens que faltarem no cache.
+// Build catalog metadata from the prebuilt cache whenever possible. Only
+// items missing from the cache use the live fallback.
 async function buildMetas(catalogId) {
   const source = DATA_SOURCES[catalogId];
   if (!source) return null;
@@ -266,7 +264,7 @@ async function handleCatalogRequest(req, res, { cacheKeyPrefix }) {
       : metas;
     return res.json({ metas: finalMetas });
   } catch (err) {
-    console.error(`Erro no catálogo ${id}: ${err.message}`);
+    console.error(`Catalog error for ${id}: ${err.message}`);
     return res.json({ metas: [FALLBACK_META] });
   }
 }
@@ -366,7 +364,7 @@ app.get("/api/catalogs", (req, res) => {
   res.json(getAllCatalogs().map((c) => ({ ...c })));
 });
 
-// Três formas de pedir o mesmo catálogo, servidas por um único handler
+// Three catalog URL formats served by one handler.
 app.get("/catalog/:type/:id.json", (req, res) =>
   handleCatalogRequest(req, res, { cacheKeyPrefix: "default" }),
 );
@@ -380,5 +378,5 @@ app.get("/catalog/:catalogsParam/catalog/:type/:id.json", (req, res) =>
 app.get("/", (req, res) => res.redirect("/configure"));
 
 app.listen(port, () => {
-  console.log(`Marvel Addon a correr na porta ${port}`);
+  console.log(`Marvel Addon listening on port ${port}`);
 });

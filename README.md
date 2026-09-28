@@ -19,7 +19,7 @@ Or install directly via:
 
 ## Self-hosting
 
-The addon is a stateless Deno service and can run on any VPS with Docker and Docker Compose.
+The addon is a stateless Node.js service and can run on any VPS with Docker and Docker Compose.
 
 1. Copy `.env.example` to `.env`.
 2. Set `PUBLIC_URL` to the public HTTPS URL of your instance. `TMDB_API_KEY` is optional when `Data/metadataCache.json` contains all metadata.
