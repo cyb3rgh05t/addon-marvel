@@ -46,7 +46,7 @@ If you liked it and want to support me:
 
 This project is a work in progress — I’d love to hear your thoughts!  
 Issues, suggestions, or questions? Open an issue or email me:  
-📧 [jpnapsp@gmail.com](mailto:jpnapsp@gmail.com)
+📧 [cyb3rgh05t_01@proton.me](mailto:cyb3rgh05t_01@proton.me)
 
 ---
 

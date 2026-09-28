@@ -293,7 +293,7 @@ function buildManifest({ id, description, catalogs, assetBaseUrl }) {
     types: ["movie", "series"],
     idPrefixes: ["marvel_", "tt"],
     behaviorHints: { configurable: true },
-    contactEmail: "jpnapsp@gmail.com",
+    contactEmail: "cyb3rgh05t_01@proton.me",
   };
 }
 

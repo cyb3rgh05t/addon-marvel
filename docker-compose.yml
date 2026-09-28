@@ -1,7 +1,7 @@
 services:
-  marvel-addon:
-    image: ${IMAGE_NAME}:${IMAGE_TAG:-latest}
-    container_name: marvel-addon
+  addon-marvel:
+    image: ghcr.io/cyb3rgh05t/addon-marvel
+    container_name: addon-marvel
     restart: unless-stopped
     env_file:
       - .env
@@ -9,16 +9,18 @@ services:
       PORT: 7777
       PUBLIC_URL: ${PUBLIC_URL}
     networks:
-      - traefik
+      - proxy
     labels:
       - traefik.enable=true
-      - traefik.docker.network=traefik
-      - traefik.http.routers.marvel-addon.rule=Host(`${DOMAIN}`)
-      - traefik.http.routers.marvel-addon.entrypoints=websecure
-      - traefik.http.routers.marvel-addon.tls=true
-      - traefik.http.routers.marvel-addon.tls.certresolver=${TRAEFIK_CERTRESOLVER}
-      - traefik.http.services.marvel-addon.loadbalancer.server.port=7777
+      - traefik.docker.network=proxy
+      - traefik.http.routers.addon-marvel.rule=Host(`${DOMAIN}`)
+      - traefik.http.routers.addon-marvel.entrypoints=https
+      - traefik.http.routers.addon-marvel.tls=true
+      - traefik.http.routers.addon-marvel.tls.certresolver=dns-cloudflare
+      - traefik.http.services.addon-marvel.loadbalancer.server.port=7777
 
 networks:
-  traefik:
+  internal:
+    internal: true
+  proxy:
     external: true
