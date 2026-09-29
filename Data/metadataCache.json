@@ -3,17 +3,18 @@
     "id": "tt0458339",
     "type": "movie",
     "name": "Captain America: The First Avenger",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/1GPeoEcMOUvkgwRXY76s9zE57I9.png",
     "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
-    "description": "No description available.",
+    "description": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1771,
+    "updatedAt": "2026-09-29"
   },
   "tt3475734": {
     "id": "tt3475734",
@@ -29,135 +30,143 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt4154664": {
     "id": "tt4154664",
     "type": "movie",
     "name": "Captain Marvel",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/93xWYZfgqcFE1svEgSlBBXS5Zlm.png",
     "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
-    "description": "No description available.",
+    "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 299537,
+    "updatedAt": "2026-09-29"
   },
   "tt0371746": {
     "id": "tt0371746",
     "type": "movie",
     "name": "Iron Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
     "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-    "description": "No description available.",
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
     "releaseInfo": "2008",
-    "imdbRating": "N/A",
+    "imdbRating": "7.7",
     "genres": [
       "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1726,
+    "updatedAt": "2026-09-29"
   },
   "tt1228705": {
     "id": "tt1228705",
     "type": "movie",
     "name": "Iron Man 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/e7jxjQ7zFnCaTSMuZGlMXmmrmA1.png",
     "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-    "description": "No description available.",
+    "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
     "releaseInfo": "2010",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 10138,
+    "updatedAt": "2026-09-29"
   },
   "tt0800080": {
     "id": "tt0800080",
     "type": "movie",
     "name": "The Incredible Hulk",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/l0UawWPTpB6uFolo7xqhQdloo8H.png",
     "poster": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
-    "description": "No description available.",
+    "description": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
     "releaseInfo": "2008",
-    "imdbRating": "N/A",
+    "imdbRating": "6.3",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1724,
+    "updatedAt": "2026-09-29"
   },
   "tt0800369": {
     "id": "tt0800369",
     "type": "movie",
     "name": "Thor",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/mhWN03HN4j9nSkomzDKZyl6xVuq.png",
     "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
-    "description": "No description available.",
+    "description": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 10195,
+    "updatedAt": "2026-09-29"
   },
   "tt0848228": {
     "id": "tt0848228",
     "type": "movie",
     "name": "The Avengers",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
     "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "description": "No description available.",
+    "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
     "releaseInfo": "2012",
-    "imdbRating": "N/A",
+    "imdbRating": "8.1",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 24428,
+    "updatedAt": "2026-09-29"
   },
   "tt1981115": {
     "id": "tt1981115",
     "type": "movie",
     "name": "Thor: The Dark World",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/z9QOY91ablajk9tuBN6XO7I6GES.png",
     "poster": "https://image.tmdb.org/t/p/w500/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg",
-    "description": "No description available.",
+    "description": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 76338,
+    "updatedAt": "2026-09-29"
   },
   "tt1300854": {
     "id": "tt1300854",
     "type": "movie",
     "name": "Iron Man 3",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/3Vo0tJwLjkSYhEKLmdEhm4CuRqk.png",
     "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
-    "description": "No description available.",
+    "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 68721,
+    "updatedAt": "2026-09-29"
   },
   "tt2364582": {
     "id": "tt2364582",
@@ -173,55 +182,58 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1843866": {
     "id": "tt1843866",
     "type": "movie",
     "name": "Captain America: The Winter Soldier",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/7taEKhcDUfQyUV5F0vPAnzs0bYm.png",
     "poster": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
-    "description": "No description available.",
+    "description": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "7.7",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 100402,
+    "updatedAt": "2026-09-29"
   },
   "tt2015381": {
     "id": "tt2015381",
     "type": "movie",
     "name": "Guardians of the Galaxy",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/tikZxXefORICSFaRxEJ01YEfOu1.png",
     "poster": "https://image.tmdb.org/t/p/w500/jPrJPZKJVhvyJ4DmUTrDgmFN0yG.jpg",
-    "description": "No description available.",
+    "description": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "7.9",
     "genres": [
       "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 118340,
+    "updatedAt": "2026-09-29"
   },
   "tt3896198": {
     "id": "tt3896198",
     "type": "movie",
     "name": "Guardians of the Galaxy Vol. 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/767C9dyjI9FMq6emsDE0rY6K8Nc.png",
     "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "description": "No description available.",
+    "description": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "7.6",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 283995,
+    "updatedAt": "2026-09-29"
   },
   "tt3322312": {
     "id": "tt3322312",
@@ -237,7 +249,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2357547": {
     "id": "tt2357547",
@@ -253,39 +265,41 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2395427": {
     "id": "tt2395427",
     "type": "movie",
     "name": "Avengers: Age of Ultron",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/20LDr1XcZV7e9vIDZadm8iRsDcx.png",
     "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
-    "description": "No description available.",
+    "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
     "releaseInfo": "2015",
-    "imdbRating": "N/A",
+    "imdbRating": "7.3",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 99861,
+    "updatedAt": "2026-09-29"
   },
   "tt0478970": {
     "id": "tt0478970",
     "type": "movie",
     "name": "Ant-Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/oUDRlRmP1BkIjKR97UJ7hAP5t2r.png",
     "poster": "https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
-    "description": "No description available.",
+    "description": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
     "releaseInfo": "2015",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 102899,
+    "updatedAt": "2026-09-29"
   },
   "tt3322314": {
     "id": "tt3322314",
@@ -301,7 +315,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt5614844": {
     "id": "tt5614844",
@@ -317,7 +331,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt3322310": {
     "id": "tt3322310",
@@ -333,7 +347,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt4230076": {
     "id": "tt4230076",
@@ -349,55 +363,58 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt3498820": {
     "id": "tt3498820",
     "type": "movie",
     "name": "Captain America: Civil War",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/2P1Malt0ap0KMQCHyJPN2pSAzbV.png",
     "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
-    "description": "No description available.",
+    "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "7.5",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 271110,
+    "updatedAt": "2026-09-29"
   },
   "tt3480822": {
     "id": "tt3480822",
     "type": "movie",
     "name": "Black Widow",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/zvA336zpabTaFKfgdQc3rmWx3KD.png",
     "poster": "https://image.tmdb.org/t/p/w500/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
-    "description": "No description available.",
+    "description": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 497698,
+    "updatedAt": "2026-09-29"
   },
   "tt1825683": {
     "id": "tt1825683",
     "type": "movie",
     "name": "Black Panther",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/hhSZl284wdgX7nY3lJXGS1e0sAL.png",
     "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "description": "No description available.",
+    "description": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "7.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 284054,
+    "updatedAt": "2026-09-29"
   },
   "tt4154858": {
     "id": "tt4154858",
@@ -413,23 +430,24 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2250912": {
     "id": "tt2250912",
     "type": "movie",
     "name": "Spider-Man: Homecoming",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/dBuI6v9X484QeG3fb4oH8RJ7021.png",
     "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "description": "No description available.",
+    "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "7.3",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 315635,
+    "updatedAt": "2026-09-29"
   },
   "tt5675620": {
     "id": "tt5675620",
@@ -445,7 +463,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1236246": {
     "id": "tt1236246",
@@ -461,103 +479,110 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1211837": {
     "id": "tt1211837",
     "type": "movie",
     "name": "Doctor Strange",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/oGTJ88hszp8GuTpppGmYceJB7RP.png",
     "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
-    "description": "No description available.",
+    "description": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "7.4",
     "genres": [
-      "Action",
-      "Adventure"
+      "Fantasy",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 284052,
+    "updatedAt": "2026-09-29"
   },
   "tt3501632": {
     "id": "tt3501632",
     "type": "movie",
     "name": "Thor: Ragnarok",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/qmlvTIqxZMb4ED9WB91UuwRSGw.png",
     "poster": "https://image.tmdb.org/t/p/original/8hnNdUFlUkjPWxKDyiE4Kn8h7Q5.jpg",
-    "description": "No description available.",
+    "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "7.6",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 284053,
+    "updatedAt": "2026-09-29"
   },
   "tt5095030": {
     "id": "tt5095030",
     "type": "movie",
     "name": "Ant-Man and the Wasp",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/uHaVcGYwgchi4sYIADiGyEMtVH0.png",
     "poster": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",
-    "description": "No description available.",
+    "description": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 363088,
+    "updatedAt": "2026-09-29"
   },
   "tt4154756": {
     "id": "tt4154756",
     "type": "movie",
     "name": "Avengers: Infinity War",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/iiFFPJduveJnb6D2TYKL4AFJIFn.png",
     "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "description": "No description available.",
+    "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "8.2",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 299536,
+    "updatedAt": "2026-09-29"
   },
   "tt4154796": {
     "id": "tt4154796",
     "type": "movie",
     "name": "Avengers: Endgame",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/gvGe333uy5FynrYAtGuQwlzzxku.png",
     "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-    "description": "No description available.",
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "8.2",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 299534,
+    "updatedAt": "2026-09-29"
   },
   "tt9032400": {
     "id": "tt9032400",
     "type": "movie",
     "name": "Eternals",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/wxGRKkxzdEntLkK5ulrw8co4T6.png",
     "poster": "https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
-    "description": "No description available.",
+    "description": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 524434,
+    "updatedAt": "2026-09-29"
   },
   "tt9140554": {
     "id": "tt9140554",
@@ -573,7 +598,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10168312": {
     "id": "tt10168312",
@@ -589,7 +614,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9140560": {
     "id": "tt9140560",
@@ -605,23 +630,24 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9376612": {
     "id": "tt9376612",
     "type": "movie",
     "name": "Shang-Chi and the Legend of the Ten Rings",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/fzeo6tseRbmjlhjrZbtuwr8Ygyn.png",
     "poster": "https://image.tmdb.org/t/p/w500/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
-    "description": "No description available.",
+    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "7.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 566525,
+    "updatedAt": "2026-09-29"
   },
   "tt9208876": {
     "id": "tt9208876",
@@ -637,7 +663,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10266874": {
     "id": "tt10266874",
@@ -653,55 +679,58 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt6320628": {
     "id": "tt6320628",
     "type": "movie",
     "name": "Spider-Man: Far From Home",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/lAEaCmWwqkZSp8lAw6F7CfPkA9N.png",
     "poster": "https://image.tmdb.org/t/p/original/2KLkGP0qWZlNGOad2O6P069hlw0.jpg",
-    "description": "No description available.",
+    "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "7.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 429617,
+    "updatedAt": "2026-09-29"
   },
   "tt10872600": {
     "id": "tt10872600",
     "type": "movie",
     "name": "Spider-Man: No Way Home",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
     "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "description": "No description available.",
+    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "7.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 634649,
+    "updatedAt": "2026-09-29"
   },
   "tt9419884": {
     "id": "tt9419884",
     "type": "movie",
     "name": "Doctor Strange in the Multiverse of Madness",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/omz9LWkZgkAEpHeOOdTzSevwG6I.png",
     "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
-    "description": "No description available.",
+    "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "7.2",
     "genres": [
+      "Fantasy",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 453395,
+    "updatedAt": "2026-09-29"
   },
   "tt10160804": {
     "id": "tt10160804",
@@ -717,7 +746,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10234724": {
     "id": "tt10234724",
@@ -733,23 +762,24 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9114286": {
     "id": "tt9114286",
     "type": "movie",
     "name": "Black Panther: Wakanda Forever",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/79cW38WVrj8RjT8U5FczODCYTDs.png",
     "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
-    "description": "No description available.",
+    "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 505642,
+    "updatedAt": "2026-09-29"
   },
   "tt13966962": {
     "id": "tt13966962",
@@ -765,7 +795,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10857160": {
     "id": "tt10857160",
@@ -781,7 +811,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10857164": {
     "id": "tt10857164",
@@ -797,23 +827,24 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10648342": {
     "id": "tt10648342",
     "type": "movie",
     "name": "Thor: Love and Thunder",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/y0UqCw8KfQrhKiZ5Ys84qyzCpWN.png",
     "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-    "description": "No description available.",
+    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
+      "Fantasy",
       "Action",
-      "Adventure"
+      "Comedy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 616037,
+    "updatedAt": "2026-09-29"
   },
   "tt13623126": {
     "id": "tt13623126",
@@ -829,71 +860,75 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt15318872": {
     "id": "tt15318872",
     "type": "movie",
     "name": "Werewolf by Night",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/lMCHiSin0esKhDH8TAeBljOyBT6.png",
     "poster": "https://image.tmdb.org/t/p/w500/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
-    "description": "No description available.",
+    "description": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
       "Action",
-      "Adventure"
+      "Fantasy",
+      "Horror"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 894205,
+    "updatedAt": "2026-09-29"
   },
   "tt13623136": {
     "id": "tt13623136",
     "type": "movie",
     "name": "The Guardians of the Galaxy Holiday Special",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/utDENl1QHZ9HdtnCpekZswsFsCn.png",
     "poster": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
-    "description": "No description available.",
+    "description": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
-      "Action",
+      "Comedy",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 774752,
+    "updatedAt": "2026-09-29"
   },
   "tt10954600": {
     "id": "tt10954600",
     "type": "movie",
     "name": "Ant-Man and the Wasp: Quantumania",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/iUhdNfX8VqZJpgUx5bgAEoHxQRQ.png",
     "poster": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
-    "description": "No description available.",
+    "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
     "releaseInfo": "2023",
-    "imdbRating": "N/A",
+    "imdbRating": "6.2",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 640146,
+    "updatedAt": "2026-09-29"
   },
   "tt6791350": {
     "id": "tt6791350",
     "type": "movie",
     "name": "Guardians of the Galaxy Vol. 3",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/A532V9h9obWT6dLsAZizJlawIaY.png",
     "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
-    "description": "No description available.",
+    "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
     "releaseInfo": "2023",
-    "imdbRating": "N/A",
+    "imdbRating": "7.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 447365,
+    "updatedAt": "2026-09-29"
   },
   "tt13157618": {
     "id": "tt13157618",
@@ -909,39 +944,41 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt10676048": {
     "id": "tt10676048",
     "type": "movie",
     "name": "The Marvels",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/fLiEU12qHCs2xP73OgLFVVObS1k.png",
     "poster": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
-    "description": "No description available.",
+    "description": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
     "releaseInfo": "2023",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 609681,
+    "updatedAt": "2026-09-29"
   },
   "tt6263850": {
     "id": "tt6263850",
     "type": "movie",
     "name": "Deadpool & Wolverine",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/2o48U3kMXGIqRAkKZQ3n5OTWSBy.png",
     "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "description": "No description available.",
+    "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
     "releaseInfo": "2024",
-    "imdbRating": "N/A",
+    "imdbRating": "7.6",
     "genres": [
       "Action",
-      "Adventure"
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 533535,
+    "updatedAt": "2026-09-29"
   },
   "tt15571732": {
     "id": "tt15571732",
@@ -957,7 +994,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt18923754": {
     "id": "tt18923754",
@@ -973,55 +1010,58 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt14513804": {
     "id": "tt14513804",
     "type": "movie",
     "name": "Captain America: Brave New World",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ubZE4IVOdOnZIp6mapDGooDYeJh.png",
     "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "description": "No description available.",
+    "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
     "releaseInfo": "2025",
-    "imdbRating": "N/A",
+    "imdbRating": "6.0",
     "genres": [
       "Action",
-      "Adventure"
+      "Thriller",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 822119,
+    "updatedAt": "2026-09-29"
   },
   "tt20969586": {
     "id": "tt20969586",
     "type": "movie",
     "name": "Thunderbolts*",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/kIQPQXeON2RsCCyVR5JDEIn6ps3.png",
     "poster": "https://image.tmdb.org/t/p/original/wSYLO9m7nPXcxcY5xtZfH6Eewmp.jpg",
-    "description": "No description available.",
+    "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
     "releaseInfo": "2025",
-    "imdbRating": "N/A",
+    "imdbRating": "7.3",
     "genres": [
       "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 986056,
+    "updatedAt": "2026-09-29"
   },
   "tt10676052": {
     "id": "tt10676052",
     "type": "movie",
     "name": "The Fantastic: Four First Steps",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/hpvf0d8XQ2Ty31CAKV9u8FNrZmD.png",
     "poster": "https://image.tmdb.org/t/p/original/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
-    "description": "No description available.",
+    "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
     "releaseInfo": "2025",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 617126,
+    "updatedAt": "2026-09-29"
   },
   "tt21066182": {
     "id": "tt21066182",
@@ -1037,7 +1077,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt23112594": {
     "id": "tt23112594",
@@ -1053,55 +1093,58 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt22084616": {
     "id": "tt22084616",
     "type": "movie",
     "name": "Spider-Man: Brand New Day",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vbZcDHC5IFylYuRnp3eyOs5rTV1.png",
     "poster": "https://image.tmdb.org/t/p/original/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "description": "No description available.",
+    "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "releaseInfo": "2026",
-    "imdbRating": "N/A",
+    "imdbRating": "7.9",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 969681,
+    "updatedAt": "2026-09-29"
   },
   "tt21357150": {
     "id": "tt21357150",
     "type": "movie",
     "name": "Avengers: Doomsday",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ggTGX5lMwzoSbm2WmlAFBK0EQdO.png",
     "poster": "https://image.tmdb.org/t/p/original/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
-    "description": "No description available.",
+    "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseInfo": "2026",
     "imdbRating": "N/A",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1003596,
+    "updatedAt": "2026-09-29"
   },
   "tt21361444": {
     "id": "tt21361444",
     "type": "movie",
     "name": "Avengers: Secret Wars",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/6rfcehI0kmv2y8aGqKIYWENXO8y.png",
     "poster": "https://image.tmdb.org/t/p/w500/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
-    "description": "No description available.",
+    "description": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga.",
     "releaseInfo": "2027",
     "imdbRating": "N/A",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1003598,
+    "updatedAt": "2026-09-29"
   },
   "tt13623128": {
     "id": "tt13623128",
@@ -1117,215 +1160,227 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1270798": {
     "id": "tt1270798",
     "type": "movie",
     "name": "X-Men: First Class",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/AbyvHmfBLOWjA0vL29hK83KnLFc.png",
     "poster": "https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
-    "description": "No description available.",
+    "description": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "7.3",
     "genres": [
       "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 49538,
+    "updatedAt": "2026-09-29"
   },
   "tt1877832": {
     "id": "tt1877832",
     "type": "movie",
     "name": "X-Men: Days of Future Past",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/d3vdGM4NBUTnzyjWn5h1qfJNczj.png",
     "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
-    "description": "No description available.",
+    "description": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "7.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 127585,
+    "updatedAt": "2026-09-29"
   },
   "tt0458525": {
     "id": "tt0458525",
     "type": "movie",
     "name": "X-Men Origins: Wolverine",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/2qLN4LfDyVSjXIK6QBsizmsyAxo.png",
     "poster": "https://image.tmdb.org/t/p/w500/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
-    "description": "No description available.",
+    "description": "After seeking to live a normal life after 200 years, Logan sets out to avenge a death by undergoing the mutant Weapon X program and becoming Wolverine.",
     "releaseInfo": "2009",
-    "imdbRating": "N/A",
+    "imdbRating": "6.3",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 2080,
+    "updatedAt": "2026-09-29"
   },
   "tt3385516": {
     "id": "tt3385516",
     "type": "movie",
     "name": "X-Men: Apocalypse",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/rvVpfnBzNUL3xiFQxyndjDXPJsO.png",
     "poster": "https://image.tmdb.org/t/p/w500/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
-    "description": "No description available.",
+    "description": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Fantasy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 246655,
+    "updatedAt": "2026-09-29"
   },
   "tt6565702": {
     "id": "tt6565702",
     "type": "movie",
     "name": "Dark Phoenix",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/lpqYKvtOT116fDldLlWSth9Ws87.png",
     "poster": "https://image.tmdb.org/t/p/w500/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
-    "description": "No description available.",
+    "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "6.0",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 320288,
+    "updatedAt": "2026-09-29"
   },
   "tt0120903": {
     "id": "tt0120903",
     "type": "movie",
     "name": "X-Men",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/bfUbOGdmttSCvar958KkUJlEOiQ.png",
     "poster": "https://image.tmdb.org/t/p/original/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
-    "description": "No description available.",
+    "description": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
     "releaseInfo": "2000",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36657,
+    "updatedAt": "2026-09-29"
   },
   "tt0290334": {
     "id": "tt0290334",
     "type": "movie",
     "name": "X2: X-Men United",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/Ab2M8vN5oaos3K7uE7B5vLmTzbJ.png",
     "poster": "https://image.tmdb.org/t/p/original/rtrd4qieMAhoUshu83Vi1GazM1O.jpg",
-    "description": "No description available.",
+    "description": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
     "releaseInfo": "2003",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36658,
+    "updatedAt": "2026-09-29"
   },
   "tt0376994": {
     "id": "tt0376994",
     "type": "movie",
     "name": "X-Men: The Last Stand",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/1FcmNONT3OOKJandZ8bePwfmefv.png",
     "poster": "https://image.tmdb.org/t/p/original/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
-    "description": "No description available.",
+    "description": "When a cure is found to treat mutations, lines are drawn amongst the X-Men led by Professor Charles Xavier, and Magneto's Brotherhood of Mutants.",
     "releaseInfo": "2006",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36668,
+    "updatedAt": "2026-09-29"
   },
   "tt1430132": {
     "id": "tt1430132",
     "type": "movie",
     "name": "The Wolverine",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/uBeNeuKx0hmVFi2KM7nUUl6YEq6.png",
     "poster": "https://image.tmdb.org/t/p/w500/8lzmovtARDXnE7kTDOum02i6fXv.jpg",
-    "description": "No description available.",
+    "description": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
       "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 76170,
+    "updatedAt": "2026-09-29"
   },
   "tt1431045": {
     "id": "tt1431045",
     "type": "movie",
     "name": "Deadpool",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/piuamNKC09lepRcjrWx9GfEa8hN.png",
     "poster": "https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
-    "description": "No description available.",
+    "description": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "7.6",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Comedy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 293660,
+    "updatedAt": "2026-09-29"
   },
   "tt4682266": {
     "id": "tt4682266",
     "type": "movie",
     "name": "The New Mutants",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/mlAsDTG8Wd5iafHxetK0KghwJia.png",
     "poster": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
-    "description": "No description available.",
+    "description": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
     "releaseInfo": "2020",
-    "imdbRating": "N/A",
+    "imdbRating": "6.0",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Horror"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 340102,
+    "updatedAt": "2026-09-29"
   },
   "tt5463162": {
     "id": "tt5463162",
     "type": "movie",
     "name": "Deadpool 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ksACm6SZq32nckHOHWsgw1vRjUp.png",
     "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
-    "description": "No description available.",
+    "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "7.5",
     "genres": [
       "Action",
+      "Comedy",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 383498,
+    "updatedAt": "2026-09-29"
   },
   "tt3315342": {
     "id": "tt3315342",
     "type": "movie",
     "name": "Logan",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/qDbxobWA4J2xVqwuDl71vg8JZxX.png",
     "poster": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
-    "description": "No description available.",
+    "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "7.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Drama",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 263115,
+    "updatedAt": "2026-09-29"
   },
   "tt0036697": {
     "id": "tt0036697",
@@ -1341,183 +1396,201 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0076190": {
     "id": "tt0076190",
     "type": "movie",
     "name": "The Incredible Hulk",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ylFPCYd0CmwnvAEz5J8NbOAs56r.png",
     "poster": "https://image.tmdb.org/t/p/original/xICqSe6WSu3SDN0lfloExd9X9AQ.jpg",
-    "description": "No description available.",
+    "description": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
     "releaseInfo": "1977",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction",
+      "TV Movie",
+      "Drama"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 65294,
+    "updatedAt": "2026-09-29"
   },
   "tt0077469": {
     "id": "tt0077469",
     "type": "movie",
     "name": "Dr. Strange",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/2YnIWqTIezwmWTNsXBtIluX7QQ6.png",
     "poster": "https://image.tmdb.org/t/p/original/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
-    "description": "No description available.",
+    "description": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
     "releaseInfo": "1978",
-    "imdbRating": "N/A",
+    "imdbRating": "6.0",
     "genres": [
+      "TV Movie",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 50468,
+    "updatedAt": "2026-09-29"
   },
   "tt0078937": {
     "id": "tt0078937",
     "type": "movie",
     "name": "Captain America",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vtWh1HvBITwYuw50BDC4PDiDzxL.png",
     "poster": "https://image.tmdb.org/t/p/original/algGoBR8Smev6JDQJLJbwKnYxqi.jpg",
-    "description": "No description available.",
+    "description": "Artist Steve Rogers is nearly murdered by spies, seeking his late father's national secrets. He is saved during surgery via a secret formula; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
     "releaseInfo": "1979",
-    "imdbRating": "N/A",
+    "imdbRating": "3.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction",
+      "TV Movie"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 197467,
+    "updatedAt": "2026-09-29"
   },
   "tt0078938": {
     "id": "tt0078938",
     "type": "movie",
     "name": "Captain America II: Death Too Soon",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/m8W7OvmJvkS70U7SbnroczpmMBF.png",
     "poster": "https://image.tmdb.org/t/p/original/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
-    "description": "No description available.",
+    "description": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
     "releaseInfo": "1979",
-    "imdbRating": "N/A",
+    "imdbRating": "3.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Drama",
+      "Science Fiction",
+      "TV Movie"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 197481,
+    "updatedAt": "2026-09-29"
   },
   "tt0089893": {
     "id": "tt0089893",
     "type": "movie",
     "name": "Red Sonja",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/edw81TOrBphCtYkfr6PTYWxPEzn.png",
     "poster": "https://image.tmdb.org/t/p/original/qYJFrmSjy0HpzmvnIuGpuFUzXbs.jpg",
-    "description": "No description available.",
+    "description": "The tyrant Gedren seeks the total power in a world of barbarism. She raids the city Hablac and kills the keeper of a talisman that gives her great power. Red Sonja, sister of the keeper, sets out with her magic sword to overthrow Gedren.",
     "releaseInfo": "1985",
-    "imdbRating": "N/A",
+    "imdbRating": "5.4",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 9626,
+    "updatedAt": "2026-09-29"
   },
   "tt0091225": {
     "id": "tt0091225",
     "type": "movie",
     "name": "Howard the Duck",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/5AM4R0tEecwGnC527CpQtxNGGvo.png",
     "poster": "https://image.tmdb.org/t/p/original/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
-    "description": "No description available.",
+    "description": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar-smoking drake, Howard, from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet, but then a much less friendly being arrives through the beam...",
     "releaseInfo": "1986",
-    "imdbRating": "N/A",
+    "imdbRating": "5.5",
     "genres": [
-      "Action",
-      "Adventure"
+      "Comedy",
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 10658,
+    "updatedAt": "2026-09-29"
   },
   "tt0098512": {
     "id": "tt0098512",
     "type": "movie",
     "name": "The Incredible Hulk Returns",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/snrYXUhCMdZ0Kgu434gvr3KIesb.png",
     "poster": "https://image.tmdb.org/t/p/original/rDAWdpW0uzUj9c4YPeuanPGWHBq.jpg",
-    "description": "No description available.",
+    "description": "Years after the end of the original series, David Banner continues his wandering search for a cure for the condition that turns him into the Hulk. He reunites with former colleague Don Blake, unaware of his mystical connection to Thor. When a criminal organization threatens their lives, Banner is forced to unleash the Hulk once again, marking the character’s return after the series finale.",
     "releaseInfo": "1988",
-    "imdbRating": "N/A",
+    "imdbRating": "6.2",
     "genres": [
       "Action",
-      "Adventure"
+      "Drama",
+      "Adventure",
+      "TV Movie"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 26881,
+    "updatedAt": "2026-09-29"
   },
   "tt0095368": {
     "id": "tt0095368",
     "type": "movie",
     "name": "The Trial of the Incredible Hulk",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/zfhquZmtfyO4dwmMRUr6DTaxbnn.png",
     "poster": "https://image.tmdb.org/t/p/original/30byddPAlNalaVed3o59IVjhzJg.jpg",
-    "description": "No description available.",
+    "description": "Falsely accused of assault, Dr. David Banner is arrested and placed on trial, facing the possibility of a long prison sentence. Blind attorney Matt Murdock takes on his defence, while secretly operating as the vigilante Daredevil. As the courtroom battle unfolds, Banner’s struggle to control the Hulk leads to a dangerous confrontation with criminal mastermind Wilson Fisk.",
     "releaseInfo": "1989",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
       "Action",
-      "Adventure"
+      "Science Fiction",
+      "TV Movie"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 26883,
+    "updatedAt": "2026-09-29"
   },
   "tt0098141": {
     "id": "tt0098141",
     "type": "movie",
     "name": "The Punisher",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/8HM0svuJUio7Q1a8R83OOk3nOhR.png",
     "poster": "https://image.tmdb.org/t/p/original/p7CNykYyLG1mA1OazOtUsLxeWxD.jpg",
-    "description": "No description available.",
+    "description": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
     "releaseInfo": "1989",
-    "imdbRating": "N/A",
+    "imdbRating": "5.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Crime",
+      "Drama"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 8867,
+    "updatedAt": "2026-09-29"
   },
   "tt0103923": {
     "id": "tt0103923",
     "type": "movie",
     "name": "Captain America",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/1zWs81vwPLK8LL9aBeDDJZHr0EU.png",
     "poster": "https://image.tmdb.org/t/p/original/lUsDBhzogxYOU5XshARgnnZY4Xd.jpg",
-    "description": "No description available.",
+    "description": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
     "releaseInfo": "1990",
-    "imdbRating": "N/A",
+    "imdbRating": "4.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction",
+      "War"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 13995,
+    "updatedAt": "2026-09-29"
   },
   "tt0136198": {
     "id": "tt0136198",
     "type": "movie",
     "name": "Firearm",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/r3JLuoeFL10wyR9jGhw46XYc3DV.png",
     "poster": "https://image.tmdb.org/t/p/original/lAREEaTmpetCDjvgmy6UnWqCPBq.jpg",
-    "description": "No description available.",
+    "description": "Private investigator Alec Swan, against his own wishes, becomes embroiled in a case involving the strange and the ultra-human. The first movie that's faithful to the comic book... because it IS the comic book!  This VHS film was bundled with Malibu Comics' Firearm #0, part of its Ultraverse line.",
     "releaseInfo": "1993",
-    "imdbRating": "N/A",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "imdbRating": "6.0",
+    "genres": [],
+    "tmdbId": 517485,
+    "updatedAt": "2026-09-29"
   },
   "tt0116401": {
     "id": "tt0116401",
@@ -1525,543 +1598,578 @@
     "name": "Generation X",
     "logo": null,
     "poster": "https://image.tmdb.org/t/p/original/oaM0RTIkhw0lCK9JowsIvdsJ1Pn.jpg",
-    "description": "No description available.",
+    "description": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
     "releaseInfo": "1996",
-    "imdbRating": "N/A",
+    "imdbRating": "4.3",
     "genres": [
+      "TV Movie",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 26623,
+    "updatedAt": "2026-09-29"
   },
   "tt0119654": {
     "id": "tt0119654",
     "type": "movie",
     "name": "Men in Black",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/mTevhilEOa7dqILrE9YQnNhkIQ7.png",
     "poster": "https://image.tmdb.org/t/p/original/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
-    "description": "No description available.",
+    "description": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
     "releaseInfo": "1997",
-    "imdbRating": "N/A",
+    "imdbRating": "7.2",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 607,
+    "updatedAt": "2026-09-29"
   },
   "tt0119781": {
     "id": "tt0119781",
     "type": "movie",
     "name": "Nick Fury: Agent of S.H.I.E.L.D",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/A2GwU1DDr0dUdRZJqmZEEOzgvv0.png",
     "poster": "https://image.tmdb.org/t/p/original/4T0YjvnBaMASZkkRKxMIe6IoWO0.jpg",
-    "description": "No description available.",
+    "description": "Marvel's hard-boiled hero is brought back to fight the menace of Hydra after exiling himself in the Yukon since the end of the Cold War. The children of the former Hydra head, Baron Von Stucker, have taken charge of the terrorist organization. Under the lead of his vicious daughter, Viper, Hydra has seized a deadly virus and threatens the destruction of America.",
     "releaseInfo": "1998",
-    "imdbRating": "N/A",
+    "imdbRating": "4.6",
     "genres": [
+      "Science Fiction",
       "Action",
-      "Adventure"
+      "TV Movie"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 27460,
+    "updatedAt": "2026-09-29"
   },
   "tt0120611": {
     "id": "tt0120611",
     "type": "movie",
     "name": "Blade",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/tAo7IYPj4jW36z02JtuFP5BUdT7.png",
     "poster": "https://image.tmdb.org/t/p/w500/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
-    "description": "No description available.",
+    "description": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
     "releaseInfo": "1998",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Horror",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36647,
+    "updatedAt": "2026-09-29"
   },
   "tt0187738": {
     "id": "tt0187738",
     "type": "movie",
     "name": "Blade II",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vkUddkp0gNmrgPW8eInXKB0apjS.png",
     "poster": "https://image.tmdb.org/t/p/w500/azzTa03g0Fb8HC7O3521qq0oc8Q.jpg",
-    "description": "No description available.",
+    "description": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
     "releaseInfo": "2002",
-    "imdbRating": "N/A",
+    "imdbRating": "6.6",
     "genres": [
+      "Fantasy",
+      "Horror",
       "Action",
-      "Adventure"
+      "Thriller"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36586,
+    "updatedAt": "2026-09-29"
   },
   "tt0145487": {
     "id": "tt0145487",
     "type": "movie",
     "name": "Spider-Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/kNPXwReF35JpWBqGw8HadykznPT.png",
     "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "description": "No description available.",
+    "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
     "releaseInfo": "2002",
-    "imdbRating": "N/A",
+    "imdbRating": "7.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 557,
+    "updatedAt": "2026-09-29"
   },
   "tt0120912": {
     "id": "tt0120912",
     "type": "movie",
     "name": "Men in Black II'",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/fjIxz8laWR3WJsxMpsnXeFnq5Sb.png",
     "poster": "https://image.tmdb.org/t/p/original/jwsjSForCGo7tnvwCfB5EnWYbKC.jpg",
-    "description": "No description available.",
+    "description": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB's untarnished mission statement – protecting Earth from the scum of the universe. It's been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it's a race against the clock as Jay must convince Kay – who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy – to reunite with the MIB before the earth submits to ultimate destruction.",
     "releaseInfo": "2002",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 608,
+    "updatedAt": "2026-09-29"
   },
   "tt0287978": {
     "id": "tt0287978",
     "type": "movie",
     "name": "Daredevil",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/zlnkwez6nFYNMUou7h5DT7ZzJv2.png",
     "poster": "https://image.tmdb.org/t/p/original/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
-    "description": "No description available.",
+    "description": "By day, blind attorney Matt Murdock toils for justice in Hell's Kitchen. By night, he's Daredevil, The Man Without Fear - a powerful, masked vigilante stalking the dark streets with an uncanny \"radar sense\" that allows him to \"see\" with superhuman capabilities. But when the love of his life, fiery Elektra Natchios, is targeted by New York City's ruthless Kingpin of crime and his deadly assassin Bullseye, Daredevil may be about to meet his match.",
     "releaseInfo": "2003",
-    "imdbRating": "N/A",
+    "imdbRating": "5.3",
     "genres": [
-      "Action",
-      "Adventure"
+      "Fantasy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 9480,
+    "updatedAt": "2026-09-29"
   },
   "tt0286716": {
     "id": "tt0286716",
     "type": "movie",
     "name": "Hulk",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ulcecwSxeLcye1ZBbRWADy59oYe.png",
     "poster": "https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg",
-    "description": "No description available.",
+    "description": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
     "releaseInfo": "2003",
-    "imdbRating": "N/A",
+    "imdbRating": "5.6",
     "genres": [
+      "Science Fiction",
+      "Adventure",
       "Action",
-      "Adventure"
+      "Drama"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1927,
+    "updatedAt": "2026-09-29"
   },
   "tt0330793": {
     "id": "tt0330793",
     "type": "movie",
     "name": "The Punisher",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/f3IBlgJVeRDUpCC8CKTDggFATZs.png",
     "poster": "https://image.tmdb.org/t/p/original/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
-    "description": "No description available.",
+    "description": "When undercover FBI agent Frank Castle's wife and son are slaughtered, he becomes 'the Punisher' -- a ruthless vigilante willing to go to any length to avenge his family.",
     "releaseInfo": "2004",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Crime",
+      "Drama"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 7220,
+    "updatedAt": "2026-09-29"
   },
   "tt0316654": {
     "id": "tt0316654",
     "type": "movie",
     "name": "Spider-Man 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/mSYIoj4eNWMDdxaTIf7xzDqvYDm.png",
     "poster": "https://image.tmdb.org/t/p/w500/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
-    "description": "No description available.",
+    "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
     "releaseInfo": "2004",
-    "imdbRating": "N/A",
+    "imdbRating": "7.3",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 558,
+    "updatedAt": "2026-09-29"
   },
   "tt0359013": {
     "id": "tt0359013",
     "type": "movie",
     "name": "Blade: Trinity",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/pJEnnN2aeXKbJYSfAOWv3A0bYdF.png",
     "poster": "https://image.tmdb.org/t/p/w500/r6ycjrStmmAqiY1oDjAli9NArCa.jpg",
-    "description": "No description available.",
+    "description": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
     "releaseInfo": "2004",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Horror",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 36648,
+    "updatedAt": "2026-09-29"
   },
   "tt0357277": {
     "id": "tt0357277",
     "type": "movie",
     "name": "Elektra",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vTGlqU5pzQ9ODf6a8F3Fs2vgymr.png",
     "poster": "https://image.tmdb.org/t/p/original/delKBZg2QeVH2FMdU7YOuZSIG4Q.jpg",
-    "description": "No description available.",
+    "description": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
     "releaseInfo": "2005",
-    "imdbRating": "N/A",
+    "imdbRating": "5.0",
     "genres": [
       "Action",
+      "Fantasy",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 9947,
+    "updatedAt": "2026-09-29"
   },
   "tt0290747": {
     "id": "tt0290747",
     "type": "movie",
     "name": "Man-Thing",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/zEuqVlci42N18eDtXIqr9uWrfz4.png",
     "poster": "https://image.tmdb.org/t/p/original/jcCNfw58NlLYOVYLtrhKxN4rH44.jpg",
-    "description": "No description available.",
+    "description": "Agents of an oil tycoon vanish while exploring a swamp marked for drilling. The local sheriff investigates and faces a Seminole legend come to life: Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.",
     "releaseInfo": "2005",
-    "imdbRating": "N/A",
+    "imdbRating": "4.3",
     "genres": [
       "Action",
-      "Adventure"
+      "Horror",
+      "Adventure",
+      "Science Fiction",
+      "Romance"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 18882,
+    "updatedAt": "2026-09-29"
   },
   "tt0120667": {
     "id": "tt0120667",
     "type": "movie",
     "name": "Fantastic Four",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/mumBSCDUnc5kuy75dgKARu4fiOi.png",
     "poster": "https://image.tmdb.org/t/p/original/yoao85kVKNJ0dN967Gnn3nvkFJG.jpg",
-    "description": "No description available.",
+    "description": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
     "releaseInfo": "2005",
-    "imdbRating": "N/A",
+    "imdbRating": "5.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 9738,
+    "updatedAt": "2026-09-29"
   },
   "tt0259324": {
     "id": "tt0259324",
     "type": "movie",
     "name": "Ghost Rider",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/AsFDlONRL3fPH4w0DsjQ7rbtzh9.png",
     "poster": "https://image.tmdb.org/t/p/w500/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg",
-    "description": "No description available.",
+    "description": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
     "releaseInfo": "2007",
-    "imdbRating": "N/A",
+    "imdbRating": "5.6",
     "genres": [
+      "Thriller",
       "Action",
-      "Adventure"
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1250,
+    "updatedAt": "2026-09-29"
   },
   "tt0413300": {
     "id": "tt0413300",
     "type": "movie",
     "name": "Spider-Man 3",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/qMoKekvYqvnnN3WSMBUrnPXQOgq.png",
     "poster": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-    "description": "No description available.",
+    "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
     "releaseInfo": "2007",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 559,
+    "updatedAt": "2026-09-29"
   },
   "tt0486576": {
     "id": "tt0486576",
     "type": "movie",
     "name": "Fantastic Four: Rise of the Silver Surfer",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/dgbnTqH4IzmhYZvnzyVS5BxHUWV.png",
     "poster": "https://image.tmdb.org/t/p/w500/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
-    "description": "No description available.",
+    "description": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
     "releaseInfo": "2007",
-    "imdbRating": "N/A",
+    "imdbRating": "5.6",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Adventure",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1979,
+    "updatedAt": "2026-09-29"
   },
   "tt0450314": {
     "id": "tt0450314",
     "type": "movie",
     "name": "Punisher: War Zone",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/rpbyigZJ8vX1CT3gkUnDLWVZTd0.png",
     "poster": "https://image.tmdb.org/t/p/w500/oOvKJgYUIpfswGHAdW6159bPbvM.jpg",
-    "description": "No description available.",
+    "description": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
     "releaseInfo": "2008",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Crime"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 13056,
+    "updatedAt": "2026-09-29"
   },
   "tt1250777": {
     "id": "tt1250777",
     "type": "movie",
     "name": "Kick-Ass",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/pDLmFlKLIZD2LvJdDknOPU5ts4q.png",
     "poster": "https://image.tmdb.org/t/p/original/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
-    "description": "No description available.",
+    "description": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
     "releaseInfo": "2010",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
       "Action",
-      "Adventure"
+      "Crime"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 23483,
+    "updatedAt": "2026-09-29"
   },
   "tt1071875": {
     "id": "tt1071875",
     "type": "movie",
     "name": "Ghost Rider: Spirit of Vengeance",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/6rIQU19Zl1VbiyXWPEQUcpqEen6.png",
     "poster": "https://image.tmdb.org/t/p/w500/fUJOWsjjE8u1r4YOLYe1RLYy7bm.jpg",
-    "description": "No description available.",
+    "description": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "5.0",
     "genres": [
       "Action",
-      "Adventure"
+      "Fantasy",
+      "Thriller"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 71676,
+    "updatedAt": "2026-09-29"
   },
   "tt2011118": {
     "id": "tt2011118",
     "type": "movie",
     "name": "Marvel One-Shot: The Consultant",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/fyrOxUUl9vuvJpLiBJfs81kZgGa.png",
     "poster": "https://image.tmdb.org/t/p/original/xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg",
-    "description": "No description available.",
+    "description": "Agent Coulson informs Agent Sitwell that the World Security Council wishes Emil Blonsky to be released from prison to join the Avengers Initiative. As Nick Fury doesn't want to release Blonsky, the two agents decide to send a patsy to sabotage the meeting...",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "6.3",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 76122,
+    "updatedAt": "2026-09-29"
   },
   "tt2011109": {
     "id": "tt2011109",
     "type": "movie",
     "name": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/gygFKQGZ0aZy0KeHhMLB9TBDKou.png",
     "poster": "https://image.tmdb.org/t/p/original/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
-    "description": "No description available.",
+    "description": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Adventure",
       "Action",
-      "Adventure"
+      "Comedy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 76535,
+    "updatedAt": "2026-09-29"
   },
   "tt1409024": {
     "id": "tt1409024",
     "type": "movie",
     "name": "Men in Black 3",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/a2iSCAj6s9v578A1sKqkOeV6824.png",
     "poster": "https://image.tmdb.org/t/p/original/90DdoEStzeObs96fsYf4GG544iN.jpg",
-    "description": "No description available.",
+    "description": "Agents J and K are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K to save his partner, the agency, and the future of humankind.",
     "releaseInfo": "2012",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 41154,
+    "updatedAt": "2026-09-29"
   },
   "tt0948470": {
     "id": "tt0948470",
     "type": "movie",
     "name": "The Amazing Spider-Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/wpjoFEW3fl7NYJNrBW2b1NicW2V.png",
     "poster": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
-    "description": "No description available.",
+    "description": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.",
     "releaseInfo": "2012",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1930,
+    "updatedAt": "2026-09-29"
   },
   "tt2247732": {
     "id": "tt2247732",
     "type": "movie",
     "name": "Marvel One-Shot: Item 47",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/rGYlqogLr09UkeMsjfHB46p0RrS.png",
     "poster": "https://image.tmdb.org/t/p/original/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
-    "description": "No description available.",
+    "description": "Benny and Claire, a down-on-their-luck couple, find a discarded Chitauri weapon referred to as 'Item 47'.",
     "releaseInfo": "2012",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
+      "Science Fiction",
       "Action",
-      "Adventure"
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 119569,
+    "updatedAt": "2026-09-29"
   },
   "tt1650554": {
     "id": "tt1650554",
     "type": "movie",
     "name": "Kick-Ass 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/jpAo8Xro29KhSKThundneOjUoWQ.png",
     "poster": "https://image.tmdb.org/t/p/original/19hM2kJQhGV4ccZ8Tde2TkQG4ab.jpg",
-    "description": "No description available.",
+    "description": "After Kick-Ass' insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Crime"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 59859,
+    "updatedAt": "2026-09-29"
   },
   "tt3067038": {
     "id": "tt3067038",
     "type": "movie",
     "name": "Marvel One-Shot: Agent Carter",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/3WlXVRZgc30EJbtYSkcwCGfXNl8.png",
     "poster": "https://image.tmdb.org/t/p/original/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
-    "description": "No description available.",
+    "description": "Agent Peggy Carter is relegated to a desk job and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "7.2",
     "genres": [
+      "Adventure",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 211387,
+    "updatedAt": "2026-09-29"
   },
   "tt3438640": {
     "id": "tt3438640",
     "type": "movie",
     "name": "Marvel One-Shot: All Hail the King",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/8j5u7toyw8dciRb0BybVALA7m7w.png",
     "poster": "https://image.tmdb.org/t/p/original/ozXvopXv1TiOTls8zb09dBmu9dt.jpg",
-    "description": "No description available.",
+    "description": "A documentary filmmaker interviews the now-famous Trevor Slattery from behind bars.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
       "Action",
-      "Adventure"
+      "Comedy",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 253980,
+    "updatedAt": "2026-09-29"
   },
   "tt3591568": {
     "id": "tt3591568",
     "type": "movie",
     "name": "Marvel Studios: Assembling a Universe",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/cPqhmAdMCc9UG6G0vhLiIJvMOVy.png",
     "poster": "https://image.tmdb.org/t/p/original/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
-    "description": "No description available.",
+    "description": "A look at the story behind Marvel Studios and the Marvel Cinematic Universe, featuring interviews and behind-the-scenes footage from all of the Marvel films, the Marvel One-Shots and \"Marvel's Agents of S.H.I.E.L.D.\"!",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Documentary",
+      "TV Movie",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 259910,
+    "updatedAt": "2026-09-29"
   },
   "tt1872181": {
     "id": "tt1872181",
     "type": "movie",
     "name": "The Amazing Spider-Man 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/8ybXuz5BHVq9kJTEJvB50VJuypH.png",
     "poster": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
-    "description": "No description available.",
+    "description": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.6",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 102382,
+    "updatedAt": "2026-09-29"
   },
   "tt4128102": {
     "id": "tt4128102",
     "type": "movie",
     "name": "Marvel 75 Years: From Pulp to Pop!",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/VGoUE9LS41m96DQpXik1oGBiHL.png",
     "poster": "https://image.tmdb.org/t/p/original/qNC8co8LuGBv22Fu9SC71ppAwoA.jpg",
-    "description": "No description available.",
+    "description": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
-      "Action",
-      "Adventure"
+      "Documentary"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 299969,
+    "updatedAt": "2026-09-29"
   },
   "tt2802144": {
     "id": "tt2802144",
     "type": "movie",
     "name": "Kingsman: The Secret Service",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/iBSqLtHA9ZerSVviA0GFFdFKeg2.png",
     "poster": "https://image.tmdb.org/t/p/original/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
-    "description": "No description available.",
+    "description": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
     "releaseInfo": "2015",
-    "imdbRating": "N/A",
+    "imdbRating": "7.6",
     "genres": [
-      "Action",
-      "Adventure"
+      "Crime",
+      "Comedy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 207703,
+    "updatedAt": "2026-09-29"
   },
   "tt1502712": {
     "id": "tt1502712",
     "type": "movie",
     "name": "Fantastic Four",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/1cyx0g3MCUmXrfW15JgHmTnKq1i.png",
     "poster": "https://image.tmdb.org/t/p/w500/4QIPHyUjmNKOdNn9W8MfsPrp7xr.jpg",
-    "description": "No description available.",
+    "description": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
     "releaseInfo": "2015",
-    "imdbRating": "N/A",
+    "imdbRating": "4.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 166424,
+    "updatedAt": "2026-09-29"
   },
   "tt5281414": {
     "id": "tt5281414",
@@ -2069,191 +2177,198 @@
     "name": "Captain America: 75 Heroic Years",
     "logo": null,
     "poster": "https://image.tmdb.org/t/p/original/mTs7YKbpkOAjBmurCqVcrcXO6aZ.jpg",
-    "description": "No description available.",
+    "description": "A full-length documentary that follows the history of Captain America from 1941 to present, and explores how \"Cap\" has been a reflection of the changing times and the world he has existed in throughout the years. Fans will hear from various Marvel luminaries including Stan Lee, Joe Quesada, Clark Gregg, Ming-Na Wen, Chloe Bennet, Jeph Loeb, Louis D'Esposito, Chris Evans and Hayley Attwell, as well as family members of Cap's creators.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
-      "Action",
-      "Adventure"
+      "Documentary"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 379040,
+    "updatedAt": "2026-09-29"
   },
   "tt6016776": {
     "id": "tt6016776",
     "type": "movie",
     "name": "Marvel One-Shot: Team Thor",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/iy4BLTJ3d29RZt05XdnYeWhvB2C.png",
     "poster": "https://image.tmdb.org/t/p/original/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg",
-    "description": "No description available.",
+    "description": "Discover what Thor was up to during the events of Captain America: Civil War.",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "7.2",
     "genres": [
-      "Action",
-      "Adventure"
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 413279,
+    "updatedAt": "2026-09-29"
   },
   "tt6599818": {
     "id": "tt6599818",
     "type": "movie",
     "name": "Marvel One-Shot: Team Thor: Part 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/4iyixpvGlwf3ooPQbTaHU7I5m6K.png",
     "poster": "https://image.tmdb.org/t/p/original/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
-    "description": "No description available.",
+    "description": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Comedy",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 441829,
+    "updatedAt": "2026-09-29"
   },
   "tt4649466": {
     "id": "tt4649466",
     "type": "movie",
     "name": "Kingsman: The Golden Circle",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/ff9ExZQrltE7bk8wYRJnFkfg0kr.png",
     "poster": "https://image.tmdb.org/t/p/original/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg",
-    "description": "No description available.",
+    "description": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
     "releaseInfo": "2017",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
-      "Action",
-      "Adventure"
+      "Crime",
+      "Comedy",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 343668,
+    "updatedAt": "2026-09-29"
   },
   "tt8023090": {
     "id": "tt8023090",
     "type": "movie",
     "name": "Marvel One-Shot: Team Darryl",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/nkg4G3q6SKgrltWZGtP2z1WHDSO.png",
     "poster": "https://image.tmdb.org/t/p/original/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg",
-    "description": "No description available.",
+    "description": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "6.2",
     "genres": [
-      "Action",
-      "Adventure"
+      "Comedy",
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 505945,
+    "updatedAt": "2026-09-29"
   },
   "tt1270797": {
     "id": "tt1270797",
     "type": "movie",
     "name": "Venom",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/5JNhTDkT7yXhoLlwCaS3hAnavHi.png",
     "poster": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-    "description": "No description available.",
+    "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 335983,
+    "updatedAt": "2026-09-29"
   },
   "tt2283336": {
     "id": "tt2283336",
     "type": "movie",
     "name": "Men in Black: International",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vFPXtvCLWTXmW3DFgZQtPNlyFtl.png",
     "poster": "https://image.tmdb.org/t/p/original/jJtp21JteJbpqHSGU7XaBEJkMoE.jpg",
-    "description": "No description available.",
+    "description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
+      "Comedy",
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 479455,
+    "updatedAt": "2026-09-29"
   },
   "tt11107678": {
     "id": "tt11107678",
     "type": "movie",
     "name": "Marvel One-Shot: Peter's To-Do List",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/fzsXDHtKsvNCCKegqKS45nyaBkB.png",
     "poster": "https://image.tmdb.org/t/p/original/ohnN1gVREFJXJJv35BaBHladKoA.jpg",
-    "description": "No description available.",
+    "description": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "7.0",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 758025,
+    "updatedAt": "2026-09-29"
   },
   "tt11295300": {
     "id": "tt11295300",
     "type": "movie",
     "name": "Expanding the Universe",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/3U83dVCjijUXs1fFIvxeKBqFn9m.png",
     "poster": "https://image.tmdb.org/t/p/original/4AicdMecgp5t5v8wlvl3YfOPhXq.jpg",
-    "description": "No description available.",
+    "description": "An exciting look into the future of Marvel Studios' films and upcoming Disney+ series.",
     "releaseInfo": "2019",
-    "imdbRating": "N/A",
+    "imdbRating": "5.7",
     "genres": [
-      "Action",
-      "Adventure"
+      "Documentary"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 647375,
+    "updatedAt": "2026-09-29"
   },
   "tt7097896": {
     "id": "tt7097896",
     "type": "movie",
     "name": "Venom: Let There Be Carnage",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/e7irKWxFUKOF1b5EixgJsB4UXmu.png",
     "poster": "https://image.tmdb.org/t/p/w500/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
-    "description": "No description available.",
+    "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 580489,
+    "updatedAt": "2026-09-29"
   },
   "tt6856242": {
     "id": "tt6856242",
     "type": "movie",
     "name": "The King's Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/8T11BEaevinesNnmuRp8hZhevJe.png",
     "poster": "https://image.tmdb.org/t/p/original/6IGX4sXjbssePGCQGv71fMANHRV.jpg",
-    "description": "No description available.",
+    "description": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Thriller"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 476669,
+    "updatedAt": "2026-09-29"
   },
   "tt5108870": {
     "id": "tt5108870",
     "type": "movie",
     "name": "Morbius",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/9yXfRmPJdeaSAVgyq3USqkgwLg7.png",
     "poster": "https://image.tmdb.org/t/p/original/6nhwr1LCozBiIN47b8oBEomOADm.jpg",
-    "description": "No description available.",
+    "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Science Fiction",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 526896,
+    "updatedAt": "2026-09-29"
   },
   "tt15009428": {
     "id": "tt15009428",
@@ -2269,55 +2384,57 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt11057302": {
     "id": "tt11057302",
     "type": "movie",
     "name": "Madame Web",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/82Y9a1cGxwFjPnaeukz3eQQnG7v.png",
     "poster": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-    "description": "No description available.",
+    "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
     "releaseInfo": "2024",
-    "imdbRating": "N/A",
+    "imdbRating": "5.3",
     "genres": [
       "Action",
-      "Adventure"
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 634492,
+    "updatedAt": "2026-09-29"
   },
   "tt16366836": {
     "id": "tt16366836",
     "type": "movie",
     "name": "Venom: The Last Dance",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/s4wOlLMQRvjK2sWqkTogDryYEWA.png",
     "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-    "description": "No description available.",
+    "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
     "releaseInfo": "2024",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 912649,
+    "updatedAt": "2026-09-29"
   },
   "tt8790086": {
     "id": "tt8790086",
     "type": "movie",
     "name": "Kraven the Hunter",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/wEuiG5gakvzTthDVz0X5gfEz7T1.png",
     "poster": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-    "description": "No description available.",
+    "description": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
     "releaseInfo": "2024",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Thriller"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 539972,
+    "updatedAt": "2026-09-29"
   },
   "tt16360004": {
     "id": "tt16360004",
@@ -2333,7 +2450,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt27826524": {
     "id": "tt27826524",
@@ -2349,7 +2466,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0076975": {
     "id": "tt0076975",
@@ -2365,7 +2482,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0077031": {
     "id": "tt0077031",
@@ -2381,7 +2498,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0128886": {
     "id": "tt0128886",
@@ -2397,7 +2514,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0283203": {
     "id": "tt0283203",
@@ -2413,7 +2530,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0823333": {
     "id": "tt0823333",
@@ -2429,7 +2546,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt5296048": {
     "id": "tt5296048",
@@ -2445,7 +2562,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1851040": {
     "id": "tt1851040",
@@ -2461,7 +2578,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt6313900": {
     "id": "tt6313900",
@@ -2477,7 +2594,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt5114356": {
     "id": "tt5114356",
@@ -2493,7 +2610,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt4396630": {
     "id": "tt4396630",
@@ -2509,7 +2626,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt13650480": {
     "id": "tt13650480",
@@ -2525,7 +2642,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt14094206": {
     "id": "tt14094206",
@@ -2541,7 +2658,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt23779108": {
     "id": "tt23779108",
@@ -2557,7 +2674,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0061301": {
     "id": "tt0061301",
@@ -2573,7 +2690,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0061250": {
     "id": "tt0061250",
@@ -2589,7 +2706,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0241100": {
     "id": "tt0241100",
@@ -2605,7 +2722,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0077091": {
     "id": "tt0077091",
@@ -2621,7 +2738,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0197911": {
     "id": "tt0197911",
@@ -2637,7 +2754,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0081938": {
     "id": "tt0081938",
@@ -2653,7 +2770,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0083481": {
     "id": "tt0083481",
@@ -2669,7 +2786,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0083430": {
     "id": "tt0083430",
@@ -2685,7 +2802,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0103584": {
     "id": "tt0103584",
@@ -2701,7 +2818,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0115218": {
     "id": "tt0115218",
@@ -2717,7 +2834,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0187635": {
     "id": "tt0187635",
@@ -2733,7 +2850,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0112175": {
     "id": "tt0112175",
@@ -2749,7 +2866,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0484812": {
     "id": "tt0484812",
@@ -2765,7 +2882,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0115215": {
     "id": "tt0115215",
@@ -2781,7 +2898,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0127385": {
     "id": "tt0127385",
@@ -2797,7 +2914,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0203268": {
     "id": "tt0203268",
@@ -2813,7 +2930,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0207120": {
     "id": "tt0207120",
@@ -2829,7 +2946,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0203247": {
     "id": "tt0203247",
@@ -2845,7 +2962,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0247827": {
     "id": "tt0247827",
@@ -2861,7 +2978,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0290983": {
     "id": "tt0290983",
@@ -2877,7 +2994,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0830298": {
     "id": "tt0830298",
@@ -2893,23 +3010,26 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0491703": {
     "id": "tt0491703",
     "type": "movie",
     "name": "Ultimate Avengers",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/47EHlAjFFudSdA6bGfo5HUkeFC6.png",
     "poster": "https://image.tmdb.org/t/p/original/zyMZ2boSccbaUjOkl6AdzLb6KKd.jpg",
-    "description": "No description available.",
+    "description": "When a nuclear missile was fired at Washington in 1945, Captain America managed to detonate it in the upper atmosphere. But then he fell miles into the icy depths of the North Atlantic, where he remained lost for over sixty years. But now, with the world facing the very same evil, Captain America must rise again as our last hope for survival.",
     "releaseInfo": "2006",
-    "imdbRating": "N/A",
+    "imdbRating": "6.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Animation",
+      "Family",
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 14609,
+    "updatedAt": "2026-09-29"
   },
   "tt2949494": {
     "id": "tt2949494",
@@ -2917,63 +3037,71 @@
     "name": "X-Men: Darktide",
     "logo": null,
     "poster": "https://image.tmdb.org/t/p/original/2233WXs0oggdnb8IGOpBgmBQnBq.jpg",
-    "description": "No description available.",
+    "description": "X-Men Unite! From an abandoned oil rig, Magneto, Mystique and Juggernaut prepare to unleash a weapon that will destroy all human life! Cyclops, Jean Grey, Wolverine, Beast and Archangel race to save Storm from their clutches, but first, they'll have to stop the rampaging giant Sentinels programmed to destroy them!",
     "releaseInfo": "2006",
-    "imdbRating": "N/A",
+    "imdbRating": "5.5",
     "genres": [
+      "Animation",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 675289,
+    "updatedAt": "2026-09-29"
   },
   "tt0803093": {
     "id": "tt0803093",
     "type": "movie",
     "name": "Ultimate Avengers 2",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/tM8grQO8JixTCfZPmaZw6cY5h3m.png",
     "poster": "https://image.tmdb.org/t/p/original/2bfVNvLKWaxFh1LiOKlvxgiHOXn.jpg",
-    "description": "No description available.",
+    "description": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
     "releaseInfo": "2006",
-    "imdbRating": "N/A",
+    "imdbRating": "6.8",
     "genres": [
+      "Adventure",
+      "Animation",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 14611,
+    "updatedAt": "2026-09-29"
   },
   "tt0903135": {
     "id": "tt0903135",
     "type": "movie",
     "name": "The Invincible Iron Man",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/hUeRd4VeOTeOpozfCm5vFyYLW8Q.png",
     "poster": "https://image.tmdb.org/t/p/original/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg",
-    "description": "No description available.",
+    "description": "When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.",
     "releaseInfo": "2007",
-    "imdbRating": "N/A",
+    "imdbRating": "6.1",
     "genres": [
+      "Adventure",
+      "Animation",
       "Action",
-      "Adventure"
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 13647,
+    "updatedAt": "2026-09-29"
   },
   "tt0910865": {
     "id": "tt0910865",
     "type": "movie",
     "name": "Doctor Strange: The Sorcerer Supreme",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/tvHf8vBxy68NHPxWADPh40qK181.png",
     "poster": "https://image.tmdb.org/t/p/original/oczXYdStbFituTIDharMhcXDAkg.jpg",
-    "description": "No description available.",
+    "description": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
     "releaseInfo": "2007",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
       "Action",
-      "Adventure"
+      "Animation",
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 14830,
+    "updatedAt": "2026-09-29"
   },
   "tt0976192": {
     "id": "tt0976192",
@@ -2989,7 +3117,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0772145": {
     "id": "tt0772145",
@@ -3005,7 +3133,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt0837143": {
     "id": "tt0837143",
@@ -3021,23 +3149,26 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1259998": {
     "id": "tt1259998",
     "type": "movie",
     "name": "Next Avengers: Heroes of Tomorrow",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/9weegJdxYZVsDMk1hGkzzf53Prn.png",
     "poster": "https://image.tmdb.org/t/p/original/qp66vgUHDRaeFVvNIazrxQBI33h.jpg",
-    "description": "No description available.",
+    "description": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
     "releaseInfo": "2008",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
+      "Animation",
+      "Family",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 14613,
+    "updatedAt": "2026-09-29"
   },
   "tt1388589": {
     "id": "tt1388589",
@@ -3053,23 +3184,26 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1325753": {
     "id": "tt1325753",
     "type": "movie",
     "name": "Hulk Vs.",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/uY4CJ8UR6X58sSmKjosnuqvlkLO.png",
     "poster": "https://image.tmdb.org/t/p/original/gQw25SDF8vQYC7JRD3xW0V6YCjR.jpg",
-    "description": "No description available.",
+    "description": "Two stories featuring Marvel's anti-hero: .................. For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes try to claim the realm for their own, but they are always stopped by the mighty Thor. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora the Enchantress. .................. Department H sends in Wolverine to track down a mysterious beast known by the US Military as the Hulk, who is rampaging across the Canadian wilderness. Surveying the extent of the damage to a destroyed town, Wolverine notices a toxic scent as well as the smell of gunpowder. He is then deployed to the wilderness to resume tracking the creature.",
     "releaseInfo": "2009",
-    "imdbRating": "N/A",
+    "imdbRating": "6.7",
     "genres": [
+      "Science Fiction",
+      "Animation",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 394355,
+    "updatedAt": "2026-09-29"
   },
   "tt1626038": {
     "id": "tt1626038",
@@ -3085,39 +3219,41 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt1483025": {
     "id": "tt1483025",
     "type": "movie",
     "name": "Planet Hulk",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/dSJ0Ezz1Ow7tUtXf6ClyVlGtfz.png",
     "poster": "https://image.tmdb.org/t/p/original/5wCzY3sAs6zHIzzHIcTKN2g0pu8.jpg",
-    "description": "No description available.",
+    "description": "When the Hulk's presence on Earth becomes too great a risk, the Illuminati trick him to board a shuttle destined for a planet where he will be able to live in peace, and launch it into space. The Hulk's struggle to escape causes the shuttle to malfunction and crash land on the planet Sakaar, however, where he is sold into slavery and trained as a gladiator.",
     "releaseInfo": "2010",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Animation",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 30675,
+    "updatedAt": "2026-09-29"
   },
   "tt1667903": {
     "id": "tt1667903",
     "type": "movie",
     "name": "Thor: Tales of Asgard",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/1ic3ktivx7wpjBM9bR0k4xi3aZi.png",
     "poster": "https://image.tmdb.org/t/p/original/oh8jjEBbL0BEGT3Fy2DKhbE2D58.jpg",
-    "description": "No description available.",
+    "description": "Hungry for adventure, Thor secretly embarks on the journey of a lifetime, joined by his loyal brother Loki, whose budding sorcery equips him with just enough magic to conjure up trouble, along with the Warriors Three - a band of boastful travelers reluctant to set sail on any adventure that might actually be dangerous. But what starts out as a harmless treasure hunt quickly turns deadly, and Thor must now prove himself worthy of the destiny he covets by saving Asgard itself.",
     "releaseInfo": "2011",
-    "imdbRating": "N/A",
+    "imdbRating": "6.3",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Animation",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 63686,
+    "updatedAt": "2026-09-29"
   },
   "tt1722512": {
     "id": "tt1722512",
@@ -3133,7 +3269,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2455546": {
     "id": "tt2455546",
@@ -3149,7 +3285,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2455514": {
     "id": "tt2455514",
@@ -3165,39 +3301,43 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2654124": {
     "id": "tt2654124",
     "type": "movie",
     "name": "Iron Man: Rise of Technovore",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/35Amiit5fGQBz8Xb5Rilj5MBzd6.png",
     "poster": "https://image.tmdb.org/t/p/original/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg",
-    "description": "No description available.",
+    "description": "Iron Man enlists the help of ruthless vigilante the Punisher to track down War Machine's murderer. All the while, he's being pursued by S.H.I.E.L.D. agents Black Widow and Hawkeye, who suspect his involvement in a recent terrorist plot.",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "6.2",
     "genres": [
-      "Action",
-      "Adventure"
+      "Science Fiction",
+      "Animation",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 169934,
+    "updatedAt": "2026-09-29"
   },
   "tt3221698": {
     "id": "tt3221698",
     "type": "movie",
     "name": "Iron Man and Hulk: Heroes United",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/cJmUsqtg628UYDyhEIr38sSyC77.png",
     "poster": "https://image.tmdb.org/t/p/original/e7F2ZNA7wMneoSKGonLKjDmjFEd.jpg",
-    "description": "No description available.",
+    "description": "The Invincible Iron Man and the Incredible Hulk must join forces to save the Earth from its greatest threat yet! When two Hydra scientists try to supercharge a Stark Arc Reactor with Hulk's Gamma Energy, they unleash a being of pure electricity called Zzzax - and he's hungry for destruction. Together, Iron Man and Hulk are the only force that stands in the way of the Zzzax's planetary blackout. But first, the super heroic duo will have to get through snarling Wendigos, deadly robots and the scaly powerhouse, Abomination.  Can two of Marvel's mightiest heroes find a way to work together without smashing each other before time runs out?",
     "releaseInfo": "2013",
-    "imdbRating": "N/A",
+    "imdbRating": "5.9",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Animation",
+      "Family",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 230896,
+    "updatedAt": "2026-09-29"
   },
   "tt3644256": {
     "id": "tt3644256",
@@ -3213,55 +3353,61 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt2245084": {
     "id": "tt2245084",
     "type": "movie",
     "name": "Big Hero 6",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/y49pcTmg7SxDV4u0fVz2RJm8nl1.png",
     "poster": "https://image.tmdb.org/t/p/original/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
-    "description": "No description available.",
+    "description": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "7.7",
     "genres": [
+      "Adventure",
+      "Family",
+      "Animation",
       "Action",
-      "Adventure"
+      "Comedy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 177572,
+    "updatedAt": "2026-09-29"
   },
   "tt3482378": {
     "id": "tt3482378",
     "type": "movie",
     "name": "Avengers Confidential: Black Widow & Punisher",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/3hb8yC6PVWiCk4ticY1WXyIzRa1.png",
     "poster": "https://image.tmdb.org/t/p/original/wJcyYVRPZDOZOD2w0r2R6wuZqqN.jpg",
-    "description": "No description available.",
+    "description": "When the Punisher takes out a black-market weapons dealer, he stumbles upon a far-reaching terrorist plot devised by a group known as Leviathan.",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.4",
     "genres": [
-      "Action",
-      "Adventure"
+      "Animation",
+      "Science Fiction",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 257346,
+    "updatedAt": "2026-09-29"
   },
   "tt3911200": {
     "id": "tt3911200",
     "type": "movie",
     "name": "Iron Man & Captain America: Heroes United",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/g0px71QgR0qy07B2M6FwZuQ0cxt.png",
     "poster": "https://image.tmdb.org/t/p/original/AcFFHZGkpLUs31bKf42z8UVLimS.jpg",
-    "description": "No description available.",
+    "description": "Iron Man and Captain America battle to keep the Red Skull and his triggerman, Taskmaster, from unleashing an army of Hydra Brutes on the world!  Sequel to the film \"Iron Man & Hulk: Heroes United\" and feature Iron Man teaming up with Captain America, it comes to accompany the live-action film \"Captain America: The Winter Soldier\".",
     "releaseInfo": "2014",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
+      "Adventure",
+      "Animation",
       "Action",
-      "Adventure"
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 284274,
+    "updatedAt": "2026-09-29"
   },
   "tt4176370": {
     "id": "tt4176370",
@@ -3277,55 +3423,59 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt5272052": {
     "id": "tt5272052",
     "type": "movie",
     "name": "Super Hero Adventures: Frost Fight!",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/vN9ahvpuRFY6FqlaEOj3zpa2cAn.png",
     "poster": "https://image.tmdb.org/t/p/original/h7pgMFwnx2dhSZypbBYdoVCV1eT.jpg",
-    "description": "No description available.",
+    "description": "The holiday season gets extra chilly as Loki and the frost giant Ymir plot to conquer the world. Marvel heroes Iron Man, Captain America, Hulk, Thor and others must stop the villains from stealing Santa's power – if anyone can actually find the mysterious Mr. Claus. Fortunately, Rocket Raccoon and Groot are also hot on Santa's trail. Heroes, villains, elves and cosmic bounty hunters collide in an epic quest that leaves the fate of the holiday and the world in the balance.",
     "releaseInfo": "2015",
-    "imdbRating": "N/A",
+    "imdbRating": "6.0",
     "genres": [
-      "Action",
-      "Adventure"
+      "Animation",
+      "Fantasy"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 372631,
+    "updatedAt": "2026-09-29"
   },
   "tt6173902": {
     "id": "tt6173902",
     "type": "movie",
     "name": "Hulk: Where Monsters Dwell",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/zCaeRZqoHR64z8MpU0fW2RxkVmh.png",
     "poster": "https://image.tmdb.org/t/p/original/luT68rZr9wtrvn22VnRl82dkWTY.jpg",
-    "description": "No description available.",
+    "description": "This All Hallows’ Eve, Nightmare is bent on conquering our waking world by crossing through the Dream Dimension, and converting each dreamer into a monster. Can Dr. Strange, Hulk and the Howling Commandos hold the line and put an end to his nefarious scheme?",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "6.6",
     "genres": [
       "Action",
-      "Adventure"
+      "Animation",
+      "Fantasy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 422153,
+    "updatedAt": "2026-09-29"
   },
   "tt5989606": {
     "id": "tt5989606",
     "type": "movie",
     "name": "Red Sonja: Queen of Plagues",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/kOs4Ml2muxySqEeJWXqFp7OhMNr.png",
     "poster": "https://image.tmdb.org/t/p/original/rOwoxKn4aW5LDhfuI0TfpGpucbO.jpg",
-    "description": "No description available.",
+    "description": "Red Sonja, the She-Devil with a Sword, intends to pay back a blood debt owed to the one man who has gained her respect, even if it means leading a doomed army to their certain deaths! Who is Dark Annisia, and how has this fearsome warrior accomplished what neither god nor demon has been able to do: force Sonja to her knees in surrender? An epic tale of blood, lust, and vengeance, \"Queen of Plagues\" takes Red Sonja from the depths of her own grave to the heights of battlefield glory.  From Gail Simone (\"Batgirl\", \"Birds of Prey\") and Walter Geovani (\"Vampirella\", \"Witchblade\"), \"Red Sonja: Queen of Plagues\" gives the iconic fantasy heroine a fresh new attitude! And now, you can see it all brought to life in this animated comic, starring Misty Lee (\"Ultimate Spider-Man\")!",
     "releaseInfo": "2016",
-    "imdbRating": "N/A",
+    "imdbRating": "4.4",
     "genres": [
+      "Animation",
+      "Fantasy",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 410154,
+    "updatedAt": "2026-09-29"
   },
   "tt6591446": {
     "id": "tt6591446",
@@ -3341,7 +3491,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt6135682": {
     "id": "tt6135682",
@@ -3357,7 +3507,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt5515212": {
     "id": "tt5515212",
@@ -3373,7 +3523,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt7726152": {
     "id": "tt7726152",
@@ -3389,23 +3539,25 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt4633694": {
     "id": "tt4633694",
     "type": "movie",
     "name": "Spider-Man: Into the Spider-Verse",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
     "poster": "https://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "description": "No description available.",
+    "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
     "releaseInfo": "2018",
-    "imdbRating": "N/A",
+    "imdbRating": "8.4",
     "genres": [
+      "Animation",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 324857,
+    "updatedAt": "2026-09-29"
   },
   "tt13783758": {
     "id": "tt13783758",
@@ -3421,7 +3573,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt12583300": {
     "id": "tt12583300",
@@ -3437,7 +3589,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9811118": {
     "id": "tt9811118",
@@ -3453,7 +3605,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt14272628": {
     "id": "tt14272628",
@@ -3469,7 +3621,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9811316": {
     "id": "tt9811316",
@@ -3485,23 +3637,24 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt21072140": {
     "id": "tt21072140",
     "type": "movie",
     "name": "LEGO Avengers: Loki in Training",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/qOoSTRN5OhhX2Xb5pobqotf4Wja.png",
     "poster": "https://image.tmdb.org/t/p/original/eyBifMbovoQbyuNXHOFYo7tsInp.jpg",
-    "description": "No description available.",
+    "description": "Loki declares he wants to be an Avenger, so Iron Man decides to make Loki an \"Avenger In Training.\" It's a great plan until Thanos arrives on Earth looking for Loki.",
     "releaseInfo": "2021",
-    "imdbRating": "N/A",
+    "imdbRating": "7.1",
     "genres": [
-      "Action",
-      "Adventure"
+      "Family",
+      "Animation",
+      "Action"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 899249,
+    "updatedAt": "2026-09-29"
   },
   "tt13622958": {
     "id": "tt13622958",
@@ -3517,7 +3670,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt13623148": {
     "id": "tt13623148",
@@ -3533,23 +3686,25 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt16531868": {
     "id": "tt16531868",
     "type": "movie",
     "name": "LEGO Avengers: Time Twisted",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/qIcTS30mK8YNCPsE5Mdq6ICdbLp.png",
     "poster": "https://image.tmdb.org/t/p/original/7nA9AjJ8iZvbBPsFPC2FNoFj568.jpg",
-    "description": "No description available.",
+    "description": "When Thanos steals the quantum tunnel, the Avengers embark on a mission to stop him from changing history.",
     "releaseInfo": "2022",
-    "imdbRating": "N/A",
+    "imdbRating": "7.2",
     "genres": [
+      "Family",
+      "Animation",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 940543,
+    "updatedAt": "2026-09-29"
   },
   "tt8041658": {
     "id": "tt8041658",
@@ -3565,55 +3720,59 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt9362722": {
     "id": "tt9362722",
     "type": "movie",
     "name": "Spider-Man: Across the Spider-Verse",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
     "poster": "https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "description": "No description available.",
+    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "releaseInfo": "2023",
-    "imdbRating": "N/A",
+    "imdbRating": "8.4",
     "genres": [
+      "Animation",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 569094,
+    "updatedAt": "2026-09-29"
   },
   "tt28477867": {
     "id": "tt28477867",
     "type": "movie",
     "name": "LEGO Avengers: Code Red",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/xoyatxuJRi7uVBWAk8yCZOzyxq1.png",
     "poster": "https://image.tmdb.org/t/p/original/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
-    "description": "No description available.",
+    "description": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
     "releaseInfo": "2023",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
+      "Animation",
       "Action",
-      "Adventure"
+      "Family"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1154598,
+    "updatedAt": "2026-09-29"
   },
   "tt33653255": {
     "id": "tt33653255",
     "type": "movie",
     "name": "LEGO Avengers: Mission Demolition",
-    "logo": null,
+    "logo": "https://image.tmdb.org/t/p/original/4z0hvE2mOXwI14X5xMYUv3PCe2Y.png",
     "poster": "https://image.tmdb.org/t/p/original/goFO9r09JXotKRcawP46jhPX2H0.jpg",
-    "description": "No description available.",
+    "description": "A young, aspiring hero and superhero fan inadvertently unleashes a powerful new villain looking to rid the world of the Avengers.",
     "releaseInfo": "2024",
-    "imdbRating": "N/A",
+    "imdbRating": "6.5",
     "genres": [
-      "Action",
-      "Adventure"
+      "Animation",
+      "Comedy",
+      "Science Fiction"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1359227,
+    "updatedAt": "2026-09-29"
   },
   "tt10862280": {
     "id": "tt10862280",
@@ -3629,7 +3788,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt16026746": {
     "id": "tt16026746",
@@ -3645,7 +3804,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt16027074": {
     "id": "tt16027074",
@@ -3661,7 +3820,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt13968252": {
     "id": "tt13968252",
@@ -3677,7 +3836,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt16027014": {
     "id": "tt16027014",
@@ -3693,7 +3852,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt36042156": {
     "id": "tt36042156",
@@ -3709,7 +3868,7 @@
       "Adventure"
     ],
     "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-09-29"
   },
   "tt37884905": {
     "id": "tt37884905",
@@ -3717,14 +3876,15 @@
     "name": "Black Panther 3",
     "logo": null,
     "poster": "https://image.tmdb.org/t/p/original/5b8t06v1cTd9H5IgWs6gj6987JM.jpg",
-    "description": "No description available.",
+    "description": "T'Challa's son, T'Challa, comes of age with eyes on the crown of Wakanda.",
     "releaseInfo": "2028",
     "imdbRating": "N/A",
     "genres": [
+      "Science Fiction",
       "Action",
       "Adventure"
     ],
-    "tmdbId": null,
-    "updatedAt": "2026-08-09"
+    "tmdbId": 1386618,
+    "updatedAt": "2026-09-29"
   }
 }
