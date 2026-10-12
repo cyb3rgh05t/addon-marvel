@@ -1,133 +1,699 @@
-import releaseData from "./releaseData.js";
-import seriesData from "./seriesData.js";
-import animationsData from "./animationsData.js";
-import moviesData from "./moviesData.js";
-
-const itemsByImdbId = new Map(
-  [...releaseData, ...seriesData, ...animationsData]
-    .filter((item) => item.imdbId)
-    .map((item) => [item.imdbId, item]),
-);
-
-const oneShotIds = new Set([
-  "tt3067038",
-  "tt2011109",
-  "tt2011118",
-  "tt2247732",
-  "tt3438640",
-  "tt6016776",
-  "tt6599818",
-  "tt8023090",
-]);
-for (const item of moviesData) {
-  if (oneShotIds.has(item.imdbId)) {
-    itemsByImdbId.set(item.imdbId, item);
+export default [
+  {
+    "title": "Eyes of Wakanda",
+    "type": "series",
+    "imdbId": "tt13968252",
+    "id": "marlve_tt13968252",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/bG23nZW96LxmWkJjsagRZI9hF6t.jpg"
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "type": "movie",
+    "imdbId": "tt0458339",
+    "releaseYear": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+    "id": "marvel_tt0458339"
+  },
+  {
+    "title": "Marvel One-Shot: Agent Carter",
+    "type": "movie",
+    "imdbId": "tt3067038",
+    "id": "marvel_tt3067038",
+    "releaseYear": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg"
+  },
+  {
+    "title": "Marvel's Agent Carter",
+    "type": "series",
+    "imdbId": "tt3475734",
+    "id": "marvel_tt3475734",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg"
+  },
+  {
+    "title": "Captain Marvel",
+    "type": "movie",
+    "imdbId": "tt4154664",
+    "releaseYear": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "id": "marvel_tt4154664"
+  },
+  {
+    "title": "Iron Man",
+    "type": "movie",
+    "imdbId": "tt0371746",
+    "releaseYear": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "id": "marvel_tt0371746"
+  },
+  {
+    "title": "Iron Man 2",
+    "type": "movie",
+    "imdbId": "tt1228705",
+    "releaseYear": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "id": "marvel_tt1228705"
+  },
+  {
+    "title": "Der unglaubliche Hulk",
+    "type": "movie",
+    "imdbId": "tt0800080",
+    "releaseYear": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+    "id": "marvel_tt0800080"
+  },
+  {
+    "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+    "type": "movie",
+    "imdbId": "tt2011109",
+    "id": "marvel_tt2011109",
+    "releaseYear": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg"
+  },
+  {
+    "title": "Thor",
+    "type": "movie",
+    "imdbId": "tt0800369",
+    "releaseYear": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "id": "marvel_tt0800369"
+  },
+  {
+    "title": "Marvel One-Shot: The Consultant",
+    "type": "movie",
+    "imdbId": "tt2011118",
+    "id": "marvel_tt2011118",
+    "releaseYear": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg"
+  },
+  {
+    "title": "Marvel’s The Avengers",
+    "type": "movie",
+    "imdbId": "tt0848228",
+    "releaseYear": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "id": "marvel_tt0848228"
+  },
+  {
+    "title": "Marvel One-Shot: Item 47",
+    "type": "movie",
+    "imdbId": "tt2247732",
+    "id": "marvel_tt2247732",
+    "releaseYear": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg"
+  },
+  {
+    "title": "Thor: The Dark Kingdom",
+    "type": "movie",
+    "imdbId": "tt1981115",
+    "releaseYear": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg",
+    "id": "marvel_tt1981115"
+  },
+  {
+    "title": "Iron Man 3",
+    "type": "movie",
+    "imdbId": "tt1300854",
+    "releaseYear": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+    "id": "marvel_tt1300854"
+  },
+  {
+    "title": "Marvel One-Shot: All Hail the King",
+    "type": "movie",
+    "imdbId": "tt3438640",
+    "id": "marvel_tt3438640",
+    "releaseYear": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/ozXvopXv1TiOTls8zb09dBmu9dt.jpg"
+  },
+  {
+    "title": "The Return of the First Avenger",
+    "type": "movie",
+    "imdbId": "tt1843866",
+    "releaseYear": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+    "id": "marvel_tt1843866"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "type": "movie",
+    "imdbId": "tt2015381",
+    "releaseYear": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/jPrJPZKJVhvyJ4DmUTrDgmFN0yG.jpg",
+    "id": "marvel_tt2015381"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "type": "movie",
+    "imdbId": "tt3896198",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "id": "marvel_tt3896198"
+  },
+  {
+    "title": "I Am Groot – Staffel 1",
+    "type": "series",
+    "imdbId": "tt13623148",
+    "id": "marvel_tt13623148",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/lNKkHTsjeVddRIq1XZ7kmtwtaZG.jpg"
+  },
+  {
+    "title": "I Am Groot – Staffel 2",
+    "type": "series",
+    "imdbId": "tt13623148",
+    "id": "marvel_tt13623148",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/lNKkHTsjeVddRIq1XZ7kmtwtaZG.jpg"
+  },
+  {
+    "title": "Daredevil – Staffel 1",
+    "type": "series",
+    "imdbId": "tt3322312",
+    "id": "marvel_tt3322312",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg"
+  },
+  {
+    "title": "Jessica Jones – Staffel 1",
+    "type": "series",
+    "imdbId": "tt2357547",
+    "id": "marvel_tt2357547",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "type": "movie",
+    "imdbId": "tt2395427",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "id": "marvel_tt2395427"
+  },
+  {
+    "title": "Ant-Man",
+    "type": "movie",
+    "imdbId": "tt0478970",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+    "id": "marvel_tt0478970"
+  },
+  {
+    "title": "Daredevil – Staffel 2",
+    "type": "series",
+    "imdbId": "tt3322312",
+    "id": "marvel_tt3322312",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg"
+  },
+  {
+    "title": "Luke Cage – Staffel 1",
+    "type": "series",
+    "imdbId": "tt3322314",
+    "id": "marvel_tt3322314",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/6R62oGGufhsf6DiMknCi047N0b7.jpg"
+  },
+  {
+    "title": "Iron Fist – Staffel 1",
+    "type": "series",
+    "imdbId": "tt3322310",
+    "id": "marvel_tt3322310",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg"
+  },
+  {
+    "title": "The Defenders",
+    "type": "series",
+    "imdbId": "tt4230076",
+    "id": "marvel_tt4230076",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg"
+  },
+  {
+    "title": "The First Avenger: Civil War",
+    "type": "movie",
+    "imdbId": "tt3498820",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "id": "marvel_tt3498820"
+  },
+  {
+    "title": "Black Widow",
+    "type": "movie",
+    "imdbId": "tt3480822",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+    "id": "marvel_tt3480822"
+  },
+  {
+    "title": "Marvel One-Shot: Team Thor",
+    "type": "movie",
+    "imdbId": "tt6016776",
+    "id": "marvel_tt6016776",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg"
+  },
+  {
+    "title": "Marvel One-Shot: Team Thor: Part 2",
+    "type": "movie",
+    "imdbId": "tt6599818",
+    "id": "marvel_tt6599818",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg"
+  },
+  {
+    "title": "Black Panther",
+    "type": "movie",
+    "imdbId": "tt1825683",
+    "releaseYear": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "id": "marvel_tt1825683"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "type": "movie",
+    "imdbId": "tt2250912",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "id": "marvel_tt2250912"
+  },
+  {
+    "title": "The Punisher – Staffel 1",
+    "type": "series",
+    "imdbId": "tt5675620",
+    "id": "marvel_tt5675620",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg"
+  },
+  {
+    "title": "Doctor Strange",
+    "type": "movie",
+    "imdbId": "tt1211837",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "id": "marvel_tt1211837"
+  },
+  {
+    "title": "Jessica Jones – Staffel 2",
+    "type": "series",
+    "imdbId": "tt2357547",
+    "id": "marvel_tt2357547",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg"
+  },
+  {
+    "title": "Luke Cage – Staffel 2",
+    "type": "series",
+    "imdbId": "tt3322314",
+    "id": "marvel_tt3322314",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/6R62oGGufhsf6DiMknCi047N0b7.jpg"
+  },
+  {
+    "title": "Iron Fist – Staffel 2",
+    "type": "series",
+    "imdbId": "tt3322310",
+    "id": "marvel_tt3322310",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg"
+  },
+  {
+    "title": "Daredevil – Staffel 3",
+    "type": "series",
+    "imdbId": "tt3322312",
+    "id": "marvel_tt3322312",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg"
+  },
+  {
+    "title": "Thor: Tag der Entscheidung",
+    "type": "movie",
+    "imdbId": "tt3501632",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/8hnNdUFlUkjPWxKDyiE4Kn8h7Q5.jpg",
+    "id": "marvel_tt3501632"
+  },
+  {
+    "title": "Marvel One-Shot: Team Darryl",
+    "type": "movie",
+    "imdbId": "tt8023090",
+    "id": "marvel_tt8023090",
+    "releaseYear": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg"
+  },
+  {
+    "title": "The Punisher – Staffel 2",
+    "type": "series",
+    "imdbId": "tt5675620",
+    "id": "marvel_tt5675620",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg"
+  },
+  {
+    "title": "Jessica Jones – Staffel 3",
+    "type": "series",
+    "imdbId": "tt2357547",
+    "id": "marvel_tt2357547",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg"
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "type": "movie",
+    "imdbId": "tt5095030",
+    "releaseYear": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+    "id": "marvel_tt5095030"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "type": "movie",
+    "imdbId": "tt4154756",
+    "releaseYear": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "id": "marvel_tt4154756"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "type": "movie",
+    "imdbId": "tt4154796",
+    "releaseYear": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "id": "marvel_tt4154796"
+  },
+  {
+    "title": "Loki – Staffel 1",
+    "type": "series",
+    "imdbId": "tt9140554",
+    "id": "marvel_tt9140554",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg"
+  },
+  {
+    "title": "What If…? – Staffel 1",
+    "type": "series",
+    "imdbId": "tt10168312",
+    "id": "marvel_tt10168312",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
+  },
+  {
+    "title": "Marvel Zombies",
+    "type": "series",
+    "imdbId": "tt16027014",
+    "id": "marvel_tt16027014",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/ifJayoMnxGF6Kgfn3xXfNcjtCrM.jpg"
+  },
+  {
+    "title": "WandaVision",
+    "type": "series",
+    "imdbId": "tt9140560",
+    "id": "marvel_tt9140560",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg"
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "type": "movie",
+    "imdbId": "tt9376612",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+    "id": "marvel_tt9376612"
+  },
+  {
+    "title": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdbId": "tt9208876",
+    "id": "marvel_tt9208876",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "type": "movie",
+    "imdbId": "tt6320628",
+    "releaseYear": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/2KLkGP0qWZlNGOad2O6P069hlw0.jpg",
+    "id": "marvel_tt6320628"
+  },
+  {
+    "title": "Eternals",
+    "type": "movie",
+    "imdbId": "tt9032400",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/lFByFS2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+    "id": "marvel_tt9032400"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "type": "movie",
+    "imdbId": "tt10872600",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "id": "marvel_tt10872600"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "type": "movie",
+    "imdbId": "tt9419884",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+    "id": "marvel_tt9419884"
+  },
+  {
+    "title": "Hawkeye",
+    "type": "series",
+    "imdbId": "tt10160804",
+    "id": "marvel_tt10160804",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg"
+  },
+  {
+    "title": "Moon Knight",
+    "type": "series",
+    "imdbId": "tt10234724",
+    "id": "marvel_tt10234724",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "type": "movie",
+    "imdbId": "tt9114286",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+    "id": "marvel_tt9114286"
+  },
+  {
+    "title": "Echo",
+    "type": "series",
+    "imdbId": "tt13966962",
+    "id": "marvel_tt13966962",
+    "releaseYear": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/vFyJH630cF68LohVYjQW49074Sy.jpg"
+  },
+  {
+    "title": "She-Hulk: Die Anwältin",
+    "type": "series",
+    "imdbId": "tt10857160",
+    "id": "marvel_tt10857160",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/5xz2orV8f0usyrfGNshcoXHmiaV.jpg"
+  },
+  {
+    "title": "Ms. Marvel",
+    "type": "series",
+    "imdbId": "tt10857164",
+    "id": "marvel_tt10857164",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg"
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "type": "movie",
+    "imdbId": "tt10648342",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "id": "marvel_tt10648342"
+  },
+  {
+    "title": "Ironheart",
+    "type": "series",
+    "imdbId": "tt13623126",
+    "id": "marvel_tt13623126",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/UbbIyltRQbbnVSnbVqTBjmkSRC.jpg"
+  },
+  {
+    "title": "Werewolf by Night",
+    "type": "movie",
+    "imdbId": "tt15318872",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
+    "id": "marvel_tt15318872"
+  },
+  {
+    "title": "The Guardians of the Galaxy Holiday Special",
+    "type": "movie",
+    "imdbId": "tt13623136",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+    "id": "marvel_tt13623136"
+  },
+  {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "type": "movie",
+    "imdbId": "tt10954600",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "id": "marvel_tt10954600"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "type": "movie",
+    "imdbId": "tt6791350",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "id": "marvel_tt6791350"
+  },
+  {
+    "title": "Secret Invasion",
+    "type": "series",
+    "imdbId": "tt13157618",
+    "id": "marvel_tt13157618",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
+  },
+  {
+    "title": "The Marvels",
+    "type": "movie",
+    "imdbId": "tt10676048",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+    "id": "marvel_tt10676048"
+  },
+  {
+    "title": "Loki – Staffel 2",
+    "type": "series",
+    "imdbId": "tt9140554",
+    "id": "marvel_tt9140554",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg"
+  },
+  {
+    "title": "What If…? – Staffel 2",
+    "type": "series",
+    "imdbId": "tt10168312",
+    "id": "marvel_tt10168312",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "type": "movie",
+    "imdbId": "tt6263850",
+    "releaseYear": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "id": "marvel_tt6263850"
+  },
+  {
+    "title": "Agatha All Along",
+    "type": "series",
+    "imdbId": "tt15571732",
+    "id": "marvel_tt15571732",
+    "releaseYear": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/rwfDv05ck4McdvqdWU2sQVsQV2j.jpg"
+  },
+  {
+    "title": "What If…? – Staffel 3",
+    "type": "series",
+    "imdbId": "tt10168312",
+    "id": "marvel_tt10168312",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
+  },
+  {
+    "title": "Daredevil: Born Again – Staffel 1",
+    "type": "series",
+    "imdbId": "tt18923754",
+    "id": "marvel_tt18923754",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
+  },
+  {
+    "title": "Captain America: Brave New World",
+    "type": "movie",
+    "imdbId": "tt14513804",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "id": "marvel_tt14513804"
+  },
+  {
+    "title": "Thunderbolts*",
+    "type": "movie",
+    "imdbId": "tt20969586",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/wSYLO9m7nPXcxcY5xtZfH6Eewmp.jpg",
+    "id": "marvel_tt20969586"
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "type": "movie",
+    "imdbId": "tt10676052",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "id": "marvel_tt10676052"
+  },
+  {
+    "title": "Wonder Man",
+    "type": "series",
+    "imdbId": "tt21066182",
+    "id": "marvel_tt21066182",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/kboHD8dkHvkAuszYxq89BYJhq9t.jpg"
+  },
+  {
+    "title": "Daredevil: Born Again – Staffel 2",
+    "type": "series",
+    "imdbId": "tt18923754",
+    "id": "marvel_tt18923754",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
+  },
+  {
+    "title": "The Punisher: One Last Kill",
+    "type": "series",
+    "imdbId": "tt36042156",
+    "id": "marvel_tt36042156",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "type": "movie",
+    "imdbId": "tt22084616",
+    "id": "marvel_tt22084616",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
+    "ratings": []
+  },
+  {
+    "title": "VisionQuest",
+    "type": "series",
+    "imdbId": "tt23112594",
+    "id": "marvel_tt23112594",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/6j60tGRAjBmWRPTOEwhW6oRbPMP.jpg"
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "type": "movie",
+    "imdbId": "tt21357150",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6eB2oh1SplddsZYCdayrIdrIGLd.jpg",
+    "id": "marvel_tt21357150"
   }
-}
-
-itemsByImdbId.set("tt36042156", {
-  title: "The Punisher: One Last Kill",
-  type: "series",
-  imdbId: "tt36042156",
-  id: "marvel_tt36042156",
-  releaseYear: "2026",
-  poster: "https://image.tmdb.org/t/p/original/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-});
-
-const chronologicalOrder = [
-  ["tt13968252", "Eyes of Wakanda"],
-  ["tt0458339", "Captain America: The First Avenger"],
-  ["tt3067038", "Marvel One-Shot: Agent Carter"],
-  ["tt3475734", "Marvel's Agent Carter"],
-  ["tt4154664", "Captain Marvel"],
-  ["tt0371746", "Iron Man"],
-  ["tt1228705", "Iron Man 2"],
-  ["tt0800080", "Der unglaubliche Hulk"],
-  ["tt2011109", "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer"],
-  ["tt0800369", "Thor"],
-  ["tt2011118", "Marvel One-Shot: The Consultant"],
-  ["tt0848228", "Marvel’s The Avengers"],
-  ["tt2247732", "Marvel One-Shot: Item 47"],
-  ["tt1981115", "Thor: The Dark Kingdom"],
-  ["tt1300854", "Iron Man 3"],
-  ["tt3438640", "Marvel One-Shot: All Hail the King"],
-  ["tt1843866", "The Return of the First Avenger"],
-  ["tt2015381", "Guardians of the Galaxy"],
-  ["tt3896198", "Guardians of the Galaxy Vol. 2"],
-  ["tt13623148", "I Am Groot – Staffel 1"],
-  ["tt13623148", "I Am Groot – Staffel 2"],
-  ["tt3322312", "Daredevil – Staffel 1"],
-  ["tt2357547", "Jessica Jones – Staffel 1"],
-  ["tt2395427", "Avengers: Age of Ultron"],
-  ["tt0478970", "Ant-Man"],
-  ["tt3322312", "Daredevil – Staffel 2"],
-  ["tt3322314", "Luke Cage – Staffel 1"],
-  ["tt3322310", "Iron Fist – Staffel 1"],
-  ["tt4230076", "The Defenders"],
-  ["tt3498820", "The First Avenger: Civil War"],
-  ["tt3480822", "Black Widow"],
-  ["tt6016776", "Marvel One-Shot: Team Thor"],
-  ["tt6599818", "Marvel One-Shot: Team Thor: Part 2"],
-  ["tt1825683", "Black Panther"],
-  ["tt2250912", "Spider-Man: Homecoming"],
-  ["tt5675620", "The Punisher – Staffel 1"],
-  ["tt1211837", "Doctor Strange"],
-  ["tt2357547", "Jessica Jones – Staffel 2"],
-  ["tt3322314", "Luke Cage – Staffel 2"],
-  ["tt3322310", "Iron Fist – Staffel 2"],
-  ["tt3322312", "Daredevil – Staffel 3"],
-  ["tt3501632", "Thor: Tag der Entscheidung"],
-  ["tt8023090", "Marvel One-Shot: Team Darryl"],
-  ["tt5675620", "The Punisher – Staffel 2"],
-  ["tt2357547", "Jessica Jones – Staffel 3"],
-  ["tt5095030", "Ant-Man and the Wasp"],
-  ["tt4154756", "Avengers: Infinity War"],
-  ["tt4154796", "Avengers: Endgame"],
-  ["tt9140554", "Loki – Staffel 1"],
-  ["tt10168312", "What If…? – Staffel 1"],
-  ["tt16027014", "Marvel Zombies"],
-  ["tt9140560", "WandaVision"],
-  ["tt9376612", "Shang-Chi and the Legend of the Ten Rings"],
-  ["tt9208876", "The Falcon and the Winter Soldier"],
-  ["tt6320628", "Spider-Man: Far From Home"],
-  ["tt9032400", "Eternals"],
-  ["tt10872600", "Spider-Man: No Way Home"],
-  ["tt9419884", "Doctor Strange in the Multiverse of Madness"],
-  ["tt10160804", "Hawkeye"],
-  ["tt10234724", "Moon Knight"],
-  ["tt9114286", "Black Panther: Wakanda Forever"],
-  ["tt13966962", "Echo"],
-  ["tt10857160", "She-Hulk: Die Anwältin"],
-  ["tt10857164", "Ms. Marvel"],
-  ["tt10648342", "Thor: Love and Thunder"],
-  ["tt13623126", "Ironheart"],
-  ["tt15318872", "Werewolf by Night"],
-  ["tt13623136", "The Guardians of the Galaxy Holiday Special"],
-  ["tt10954600", "Ant-Man and the Wasp: Quantumania"],
-  ["tt6791350", "Guardians of the Galaxy Vol. 3"],
-  ["tt13157618", "Secret Invasion"],
-  ["tt10676048", "The Marvels"],
-  ["tt9140554", "Loki – Staffel 2"],
-  ["tt10168312", "What If…? – Staffel 2"],
-  ["tt6263850", "Deadpool & Wolverine"],
-  ["tt15571732", "Agatha All Along"],
-  ["tt10168312", "What If…? – Staffel 3"],
-  ["tt18923754", "Daredevil: Born Again – Staffel 1"],
-  ["tt14513804", "Captain America: Brave New World"],
-  ["tt20969586", "Thunderbolts*"],
-  ["tt10676052", "The Fantastic Four: First Steps"],
-  ["tt21066182", "Wonder Man"],
-  ["tt18923754", "Daredevil: Born Again – Staffel 2"],
-  ["tt36042156", "The Punisher: One Last Kill"],
-  ["tt22084616", "Spider-Man: Brand New Day"],
-  ["tt23112594", "VisionQuest"],
-  ["tt21357150", "Avengers: Doomsday"],
 ];
-
-export default chronologicalOrder.map(([imdbId, title]) => {
-  const item = itemsByImdbId.get(imdbId);
-  if (!item) {
-    throw new Error(`Chronological item not found for IMDb ID ${imdbId}`);
-  }
-  return { ...item, title };
-});
