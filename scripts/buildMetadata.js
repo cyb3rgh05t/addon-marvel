@@ -47,12 +47,12 @@ const DATA_DIR = path.join(__dirname, "..", "Data");
 const CACHE_PATH = path.join(DATA_DIR, "metadataCache.json");
 
 const dataSources = {
-  chronologicalData,
   releaseData,
   xmenData,
   moviesData,
   seriesData,
   animationsData,
+  chronologicalData,
 };
 
 function collectAllItems() {

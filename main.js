@@ -224,7 +224,11 @@ async function buildMetas(catalogId) {
       limit(async () => {
         const lookupId = item.imdbId || item.id;
         const cached = metadataCache[lookupId];
-        if (cached) return cached;
+        if (cached) {
+          return cached.name === item.title
+            ? cached
+            : { ...cached, name: item.title };
+        }
         return fetchLiveMeta(item);
       }),
     ),
